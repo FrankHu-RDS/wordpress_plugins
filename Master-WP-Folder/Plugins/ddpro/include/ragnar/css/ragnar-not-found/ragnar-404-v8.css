@@ -1,0 +1,18 @@
+/*
+Theme Name: Divi Child
+Description: Divi Child Theme
+Author: WP Den
+Author URI: https://wp-den.com/
+Template: Divi
+Version: 1.0
+*/
+
+/*Your custom CSS goes below this line*/
+
+
+/* 404 8 */
+.ragnar-not-found-8 .et_pb_button_module_wrapper  {
+	display: inline-flex;
+	float: none;
+	margin: 0 9px;
+}

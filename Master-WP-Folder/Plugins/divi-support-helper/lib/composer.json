@@ -1,0 +1,5 @@
+{
+    "require": {
+        "whatcms/who-hosts-this-php": "^0.1.0"
+    }
+}

@@ -1,0 +1,15 @@
+.blocks-gallery-grid {
+  width: 100%;
+}
+.lazy-image {
+  width: 2000px !important;
+}
+.wps-ic-live-cdn {
+  /*opacity: 0 !important;*/
+}
+.wps-ic-live-cdn-opacity-force {
+  /*opacity: 1 !important;*/
+}
+.wpc-parsed {
+  /*opacity: 1 !important;*/
+}

@@ -1,0 +1,29 @@
+{
+  "name": "jumpstory-image-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jumpstory/wordpress-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://gitlab.com/jumpstory/wordpress-plugin/issues"
+  },
+  "homepage": "https://gitlab.com/jumpstory/wordpress-plugin#readme",
+  "devDependencies": {
+    "imagesloaded": "^4.1.4",
+    "laravel-mix": "^6.0.8",
+    "masonry-layout": "^4.2.2"
+  }
+}

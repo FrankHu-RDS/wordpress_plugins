@@ -1,0 +1,42 @@
+.jis_key_modal__header,
+.jis_key_modal__content,
+.jis_key_modal__footer {
+    padding: 18px 28px 22px;
+}
+
+.jis_key_modal__header {
+	padding-bottom: 6px;
+	padding-top: 30px;
+}
+
+.jis_key_modal__content {
+	padding-top: 3px;
+}
+
+.jis_key_modal__title {
+    font-size: 22px;
+}
+
+.jis_key_modal__paragraph--notice {
+	font-weight: 700;
+	font-size: 15px;
+	margin-top: 21px;
+}
+
+.jis_key_modal__anchor--notice {
+	color: #4cc9d7;
+    text-decoration: none;
+}
+
+.jis_key_modal__anchor {
+	color: #4cc9d7;
+}
+
+.jis_key_modal__input_section {
+    margin-top: 21px;
+}
+
+.jis_key_modal__btn.button.button-primary {
+	background-color: #4cc9d7;
+	border-color: #4cc9d7;
+}

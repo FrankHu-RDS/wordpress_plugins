@@ -1,0 +1,27 @@
+/* FA */
+body .ddp-divi-icon.ddp-fa-icon:before,
+body span.et-pb-icon.ddp-divi-icon.ddp-fa-icon,
+body a.et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:after,
+body #page-container a.et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:after,
+body #page-container .et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:after,
+body #page-container .et_pb_wc_add_to_cart .et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:after,
+html body #page-container .et_pb_subscribe .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:before,
+html body #page-container .et_pb_contact_form .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:before,
+html body #page-container .et_pb_contact_form .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-fa-icon:after,
+html .et-fb-font-icon-list li.ddp-fa-icon, html body.et-db #et-boc .et-fb-font-icon-list li.ddp-fa-icon:after {
+    font-family: "Font Awesome 5 Free","Font Awesome 5 Brands"  !important;
+    font-weight: 900 !important;
+}
+
+body .ddp-divi-icon.ddp-md-icon:before,
+body span.et-pb-icon.ddp-divi-icon.ddp-md-icon,
+body a.et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:after,
+body .et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:after,
+body #page-container a.et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:after,
+body #page-container .et_pb_wc_add_to_cart .et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:after,
+html body #page-container .et_pb_subscribe .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:before,
+html body #page-container .et_pb_contact_form .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:before,
+html body #page-container .et_pb_contact_form .et_pb_button.et_pb_custom_button_icon.ddp-divi-icon.ddp-md-icon:after,
+html .et-fb-font-icon-list li.ddp-md-icon, html body.et-db #et-boc .et-fb-font-icon-list li.ddp-md-icon:after {
+    font-family: "Material Icons"  !important;
+}

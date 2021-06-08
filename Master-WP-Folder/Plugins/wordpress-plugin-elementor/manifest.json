@@ -1,0 +1,33 @@
+{
+	"name": "JumpStory Image Search",
+	"version": "1.0",
+	"download_url": "https://universe.jumpstory.com/wp-content/uploads/plugins/image-search/plugin.zip",
+
+	"homepage": "https://jumpstory.com/",
+	"requires": "4.5",
+	"tested": "4.8",
+	"last_updated": "2021-05-02 10:25:00",
+	"upgrade_notice": "",
+
+	"author": "JumpStory",
+	"author_homepage": "https://jumpstory.com/",
+
+	"sections": {
+		"description": "",
+		"installation": "",
+		"changelog": ""
+	},
+	
+	"icons" : {
+		"1x" : "https://universe.jumpstory.com/wp-content/uploads/plugins/image-search/assets/WP-Icons-1x.png",
+		"2x" : "https://universe.jumpstory.com/wp-content/uploads/plugins/image-search/assets/WP-Icons-2x.png"
+    },
+
+	"banners": {
+		"low": "https://universe.jumpstory.com/wp-content/uploads/plugins/image-search/assets/JS-WP-Cover-Small.jpg",
+		"high": "https://universe.jumpstory.com/wp-content/uploads/plugins/image-search/assets/JS-WP-Cover-Large.jpg"
+	},
+
+	"translations": [
+	]
+}

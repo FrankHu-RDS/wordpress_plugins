@@ -1,0 +1,5183 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi "
+"Den Pro 5.0.0\n"
+"POT-Creation-Date: "
+"2020-11-30 16:31+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:77
+#, php-format
+msgid ""
+"More information about %s"
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"The %s plugin is up to "
+"date."
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"A new version of the %s "
+"plugin is available."
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"Could not determine if "
+"updates are available "
+"for %s."
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Plugin/Ui.php:223
+#, php-format
+msgid ""
+"Unknown update checker "
+"status \"%s\""
+msgstr ""
+
+#: ddp-plugin-update-checker/Puc/v4p10/Vcs/PluginUpdateChecker.php:98
+msgid ""
+"There is no changelog "
+"available."
+msgstr ""
+
+#: ddpro-main.php:114
+msgid ""
+"Companion plugin for the "
+"Divi Den Pro cloud "
+"library. Use the layout "
+"finder to save new "
+"layouts, sections and "
+"modules. View tutorials, "
+"get support and manage "
+"API key activation. Get "
+"the latest CSS/"
+"JavaScript code updates "
+"and fixes. Keeps "
+"everything running "
+"smooth and secure."
+msgstr ""
+
+#: ddpro-main.php:379
+#: ddpro-main.php:385
+#: ddpro-main.php:481
+#: ddpro-main.php:1727
+#: ddpro-main.php:1731
+msgid "API Key"
+msgstr ""
+
+#: ddpro-main.php:386
+#: ddpro-main.php:1744
+msgid ""
+"API Key Deactivation"
+msgstr ""
+
+#: ddpro-main.php:471
+#: ddpro-main.php:1562
+msgid "Layout Finder"
+msgstr ""
+
+#: ddpro-main.php:472
+#: ddpro-main.php:1563
+msgid "Latest"
+msgstr ""
+
+#: ddpro-main.php:473
+#: ddpro-main.php:1564
+msgid "Tutorials"
+msgstr ""
+
+#: ddpro-main.php:475
+#: ddpro-main.php:1571
+#: ddpro-main.php:2136
+msgid "Divi Theme Builder"
+msgstr ""
+
+#: ddpro-main.php:476
+#: ddpro-main.php:1572
+msgid ""
+"Plugin Theme Builder"
+msgstr ""
+
+#: ddpro-main.php:477
+#: ddpro-main.php:1566
+msgid "Custom CSS Files"
+msgstr ""
+
+#: ddpro-main.php:479
+msgid "Support"
+msgstr ""
+
+#: ddpro-main.php:480
+#: ddpro-main.php:705
+#: ddpro-main.php:1568
+msgid "System Status"
+msgstr ""
+
+#: ddpro-main.php:484
+msgid "White Label"
+msgstr ""
+
+#: ddpro-main.php:485
+#: ddpro-main.php:1574
+msgid "More Options"
+msgstr ""
+
+#: ddpro-main.php:592
+msgid ""
+"Please activate your "
+msgstr ""
+
+#: ddpro-main.php:592
+msgid " API key"
+msgstr ""
+
+#: ddpro-main.php:592
+msgid ""
+"Click here to add API Key"
+msgstr ""
+
+#: ddpro-main.php:612
+msgid "Warning!"
+msgstr ""
+
+#: ddpro-main.php:612
+#, php-format
+msgid ""
+"You're blocking external "
+"requests which means you "
+"won't be able to get %s "
+"updates. Please add %s "
+"to %s."
+msgstr ""
+
+#: ddpro-main.php:675
+#: ddpro-main.php:676
+#: ddpro-main.php:1339
+#: ddpro-main.php:1358
+#: ddpro-main.php:1378
+#: ddpro-main.php:1397
+#: ddpro-main.php:1493
+#: ddpro-main.php:2277
+#: include/coco/php/ddpro-custom-portfolio.php:248
+#: include/coco/php/ddpro-custom-portfolio.php:259
+#: include/coco/php/ddpro-custom-portfolio.php:270
+#: include/freddie/templates/freddie-custom-portfolio.php:248
+#: include/freddie/templates/freddie-custom-portfolio.php:259
+#: include/freddie/templates/freddie-custom-portfolio.php:270
+msgid "Yes"
+msgstr ""
+
+#: ddpro-main.php:675
+#: ddpro-main.php:676
+#: ddpro-main.php:824
+#: ddpro-main.php:1341
+#: ddpro-main.php:1360
+#: ddpro-main.php:1380
+#: ddpro-main.php:1399
+#: ddpro-main.php:1495
+#: ddpro-main.php:2279
+#: include/coco/php/ddpro-custom-portfolio.php:249
+#: include/coco/php/ddpro-custom-portfolio.php:260
+#: include/coco/php/ddpro-custom-portfolio.php:271
+#: include/freddie/templates/freddie-custom-portfolio.php:249
+#: include/freddie/templates/freddie-custom-portfolio.php:260
+#: include/freddie/templates/freddie-custom-portfolio.php:271
+msgid "No"
+msgstr ""
+
+#: ddpro-main.php:677
+#: ddpro-main.php:682
+msgid "Enabled"
+msgstr ""
+
+#: ddpro-main.php:677
+#: ddpro-main.php:682
+#: ddpro-main.php:922
+#: main/wp-customizer/panels-controls.php:3924
+#: main/wp-customizer/panels-controls.php:3977
+#: main/wp-customizer/panels-controls.php:4194
+#: main/wp-customizer/panels-controls.php:4402
+#: main/wp-customizer/panels-controls.php:5101
+#: main/wp-customizer/panels-controls.php:5136
+msgid "Disabled"
+msgstr ""
+
+#: ddpro-main.php:677
+msgid "Not Set"
+msgstr ""
+
+#: ddpro-main.php:678
+#: ddpro-main.php:683
+msgid "On"
+msgstr ""
+
+#: ddpro-main.php:678
+#: ddpro-main.php:683
+#: ddpro-main.php:873
+msgid "Off"
+msgstr ""
+
+#: ddpro-main.php:680
+msgid "n/a"
+msgstr ""
+
+#: ddpro-main.php:684
+msgid "Supports cURL."
+msgstr ""
+
+#: ddpro-main.php:684
+msgid ""
+"Does not support cURL."
+msgstr ""
+
+#: ddpro-main.php:685
+msgid "OpenSSL installed."
+msgstr ""
+
+#: ddpro-main.php:685
+msgid ""
+"OpenSSL not installed."
+msgstr ""
+
+#: ddpro-main.php:705
+msgid ""
+"Recommended values "
+"ensure compatibility "
+"with Divi Theme."
+msgstr ""
+
+#: ddpro-main.php:706
+msgid ""
+"For best results, an "
+"amber \"warning\" notice "
+"requires attention."
+msgstr ""
+
+#: ddpro-main.php:707
+msgid ""
+"Ask your hosting company "
+"to update the settings "
+"for you."
+msgstr ""
+
+#: ddpro-main.php:708
+msgid ""
+"Copy Report to Clipboard"
+msgstr ""
+
+#: ddpro-main.php:709
+#: ddpro-main.php:1507
+msgid ""
+"Done: Copied to clipboard"
+msgstr ""
+
+#: ddpro-main.php:808
+msgid "Warning"
+msgstr ""
+
+#: ddpro-main.php:809
+msgid "OK"
+msgstr ""
+
+#: ddpro-main.php:813
+msgid "Server Environment"
+msgstr ""
+
+#: ddpro-main.php:813
+#: ddpro-main.php:898
+#: ddpro-main.php:958
+msgid "Config Option"
+msgstr ""
+
+#: ddpro-main.php:813
+#: ddpro-main.php:898
+#: ddpro-main.php:958
+msgid "Recommended Value"
+msgstr ""
+
+#: ddpro-main.php:813
+#: ddpro-main.php:898
+#: ddpro-main.php:958
+msgid "Actual Value"
+msgstr ""
+
+#: ddpro-main.php:813
+#: ddpro-main.php:898
+#: ddpro-main.php:958
+msgid "Status"
+msgstr ""
+
+#: ddpro-main.php:815
+msgid "PHP Version"
+msgstr ""
+
+#: ddpro-main.php:822
+msgid "Server Software"
+msgstr ""
+
+#: ddpro-main.php:824
+msgid "Safe Mode"
+msgstr ""
+
+#: ddpro-main.php:831
+msgid "memory_limit"
+msgstr ""
+
+#: ddpro-main.php:838
+msgid "post_max_size"
+msgstr ""
+
+#: ddpro-main.php:845
+msgid "max_execution_time"
+msgstr ""
+
+#: ddpro-main.php:852
+msgid "upload_max_filesize"
+msgstr ""
+
+#: ddpro-main.php:859
+msgid "max_input_time"
+msgstr ""
+
+#: ddpro-main.php:873
+msgid "Display Errors"
+msgstr ""
+
+#: ddpro-main.php:880
+msgid "Cookie Path"
+msgstr ""
+
+#: ddpro-main.php:882
+msgid "Save Path"
+msgstr ""
+
+#: ddpro-main.php:884
+msgid "Use Cookies"
+msgstr ""
+
+#: ddpro-main.php:891
+msgid "Supports cURL"
+msgstr ""
+
+#: ddpro-main.php:898
+msgid ""
+"WordPress Environment"
+msgstr ""
+
+#: ddpro-main.php:899
+#: ddpro-main.php:958
+msgid "Multisite"
+msgstr ""
+
+#: ddpro-main.php:901
+msgid "Site url"
+msgstr ""
+
+#: ddpro-main.php:902
+msgid "Home url"
+msgstr ""
+
+#: ddpro-main.php:903
+msgid "WP Version"
+msgstr ""
+
+#: ddpro-main.php:911
+msgid "Permalink"
+msgstr ""
+
+#: ddpro-main.php:912
+msgid "Current Theme"
+msgstr ""
+
+#: ddpro-main.php:914
+msgid "Parent Theme"
+msgstr ""
+
+#: ddpro-main.php:922
+msgid "WP debug"
+msgstr ""
+
+#: ddpro-main.php:929
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ddpro-main.php:943
+msgid "Site Language"
+msgstr ""
+
+#: ddpro-main.php:945
+msgid "Site Charset"
+msgstr ""
+
+#: ddpro-main.php:947
+msgid "Site Text Direction"
+msgstr ""
+
+#: ddpro-main.php:959
+msgid "Total Sites"
+msgstr ""
+
+#: ddpro-main.php:961
+msgid "Base Site"
+msgstr ""
+
+#: ddpro-main.php:962
+msgid "All Sites"
+msgstr ""
+
+#: ddpro-main.php:975
+msgid "Active plugins"
+msgstr ""
+
+#: ddpro-main.php:979
+msgid " active plugins"
+msgstr ""
+
+#: ddpro-main.php:993
+msgid "Inactive Plugins"
+msgstr ""
+
+#: ddpro-main.php:997
+msgid " inactive plugins"
+msgstr ""
+
+#: ddpro-main.php:1011
+msgid "Action Required:"
+msgstr ""
+
+#: ddpro-main.php:1011
+msgid "Please review"
+msgstr ""
+
+#: ddpro-main.php:1013
+msgid ""
+"Plugin system status "
+"report. A settings "
+"update may be required "
+"for best results."
+msgstr ""
+
+#: ddpro-main.php:1013
+msgid ""
+"Go to system status tab"
+msgstr ""
+
+#: ddpro-main.php:1038
+msgid ""
+"Taking too long? Try "
+"downloading the layout "
+"instead, and upload it "
+"using Divi Library."
+msgstr ""
+
+#: ddpro-main.php:1038
+msgid ""
+"Success! Saved to Divi "
+"Library"
+msgstr ""
+
+#: ddpro-main.php:1038
+msgid ""
+"The layout or section "
+"has been saved to your "
+"Divi Library."
+msgstr ""
+
+#: ddpro-main.php:1038
+#: ddpro-main.php:1195
+msgid ""
+"Use the \"Add From "
+"Library\" tab in Divi "
+"Builder to load it onto "
+"a new page."
+msgstr ""
+
+#: ddpro-main.php:1041
+#: ddpro-main.php:1151
+msgid ""
+"Success! Saved to Divi "
+"Library<br>The layout or "
+"section has been saved "
+"to your Divi Library."
+"<br>Use the \"Add From "
+"Library\" tab in Divi "
+"Builder to load it onto "
+"a new page."
+msgstr ""
+
+#: ddpro-main.php:1050
+msgid ""
+"What Are Custom CSS "
+"Files?"
+msgstr ""
+
+#: ddpro-main.php:1051
+msgid ""
+"Some Divi Den Pro "
+"modules use custom CSS "
+"coding for advanced "
+"animations and hover "
+"effects. With Divi, it’s "
+"the only way to make our "
+"unique designs. Watch "
+"the video for full "
+"details."
+msgstr ""
+
+#: ddpro-main.php:1053
+msgid ""
+"To find specific CSS "
+"rules, search for the "
+"module name like “Square "
+"Reveal Blog”. Next copy "
+"the CSS rule > change "
+"the rule/code as "
+"required > paste the "
+"code into the Custom CSS "
+"box on the “page” or "
+"under Divi theme "
+"settings Custom CSS box."
+msgstr ""
+
+#: ddpro-main.php:1056
+msgid ""
+"Open File In Browser "
+"Window"
+msgstr ""
+
+#: ddpro-main.php:1059
+#: ddpro-main.php:1062
+#: ddpro-main.php:1065
+#: ddpro-main.php:1068
+#: ddpro-main.php:1071
+#: ddpro-main.php:1074
+#: ddpro-main.php:1077
+#: ddpro-main.php:1080
+#: ddpro-main.php:1085
+#: ddpro-main.php:1088
+#: ddpro-main.php:1091
+#: ddpro-main.php:1094
+#: ddpro-main.php:1097
+#: ddpro-main.php:1100
+#: ddpro-main.php:1103
+#: ddpro-main.php:1106
+msgid "Open CSS File"
+msgstr ""
+
+#: ddpro-main.php:1135
+msgid ""
+"Divi Den Pro comes with "
+"built-in theme builder "
+"functionality. It uses "
+"the native WordPress "
+"customizer to add "
+"premade templates like "
+"blog archive pages "
+"(category, tag, author), "
+"navigation menus, sticky "
+"bars, pop-ups and more. "
+"Get started by first "
+"saving the templates you "
+"want. Then launch the "
+"WordPress customizer to "
+"edit and publish."
+msgstr ""
+
+#: ddpro-main.php:1140
+#: ddpro-main.php:1184
+msgid "View tutorial"
+msgstr ""
+
+#: ddpro-main.php:1145
+msgid ""
+"Launch WordPress "
+"Customizer"
+msgstr ""
+
+#: ddpro-main.php:1179
+msgid ""
+"Divi Theme Builder takes "
+"the power of the Divi "
+"builder and extends it "
+"to all areas of the Divi "
+"Theme. Build custom "
+"headers, footers, "
+"category pages, product "
+"templates, blog post "
+"templates, 404 pages and "
+"more. The Divi Den Pro "
+"library contains many "
+"premade templates for "
+"Divi Theme Builder. Get "
+"started by first "
+"downloading the "
+"templates you want. Then "
+"launch the Divi > Theme "
+"Builder to import, edit "
+"and assign."
+msgstr ""
+
+#: ddpro-main.php:1189
+msgid ""
+"Launch Divi Theme Builder"
+msgstr ""
+
+#: ddpro-main.php:1195
+msgid ""
+"Success! Saved to Divi "
+"Library<br>The layout or "
+"section has been saved "
+"to your Divi Library."
+msgstr ""
+
+#: ddpro-main.php:1228
+msgid "Open in a new tab"
+msgstr ""
+
+#: ddpro-main.php:1247
+msgid ""
+"Change the order in "
+"which the Divi Den Pro "
+"Library tab is displayed "
+"in the Divi Builder "
+"interface."
+msgstr ""
+
+#: ddpro-main.php:1247
+msgid ""
+"This option gives "
+"priority to saved "
+"library items. This "
+"display order may be "
+"more convenient for some "
+"users."
+msgstr ""
+
+#: ddpro-main.php:1250
+msgid ""
+"Move the Divi Den Pro "
+"tab into the last "
+"position."
+msgstr ""
+
+#: ddpro-main.php:1250
+#: ddpro-main.php:1342
+msgid "Default: Yes"
+msgstr ""
+
+#: ddpro-main.php:1265
+msgid "Product Support"
+msgstr ""
+
+#: ddpro-main.php:1269
+msgid ""
+"Online Documentation Icon"
+msgstr ""
+
+#: ddpro-main.php:1270
+msgid ""
+"Online Documentation"
+msgstr ""
+
+#: ddpro-main.php:1270
+msgid ""
+"Knowledge Base Articles"
+msgstr ""
+
+#: ddpro-main.php:1276
+msgid "Video Icon"
+msgstr ""
+
+#: ddpro-main.php:1277
+msgid "Support Videos"
+msgstr ""
+
+#: ddpro-main.php:1277
+msgid ""
+"Browse Our Youtube "
+"Channel"
+msgstr ""
+
+#: ddpro-main.php:1283
+msgid "Newsletter Icon"
+msgstr ""
+
+#: ddpro-main.php:1284
+msgid ""
+"Never Miss a Freebie or "
+"Update"
+msgstr ""
+
+#: ddpro-main.php:1284
+msgid "Newsletter Signup"
+msgstr ""
+
+#: ddpro-main.php:1290
+#: ddpro-main.php:1297
+msgid "Like Icon"
+msgstr ""
+
+#: ddpro-main.php:1291
+msgid "Let’s Get Social"
+msgstr ""
+
+#: ddpro-main.php:1291
+msgid ""
+"Like our Facebook Page"
+msgstr ""
+
+#: ddpro-main.php:1298
+msgid ""
+"Free Divi Layouts</h3><p>"
+msgstr ""
+
+#: ddpro-main.php:1298
+msgid ""
+"Download the Divi Den "
+"Free Plugin from "
+"WordPress.org"
+msgstr ""
+
+#: ddpro-main.php:1303
+msgid "Get Pro Support"
+msgstr ""
+
+#: ddpro-main.php:1303
+msgid ""
+"Tip: For CSS style "
+"issues like changing "
+"colors, font size, "
+"padding & margins etc. "
+"See "
+msgstr ""
+
+#: ddpro-main.php:1303
+msgid "Custom CSS"
+msgstr ""
+
+#: ddpro-main.php:1325
+msgid ""
+"Advanced White Label "
+"Settings"
+msgstr ""
+
+#: ddpro-main.php:1329
+msgid ""
+"Allow Plugin Update "
+"Notifications"
+msgstr ""
+
+#: ddpro-main.php:1343
+msgid ""
+"Allow customers to run "
+"updates or not (consider "
+"this carefully). "
+"Activate this setting to "
+"show “update available” "
+"notifications if updates "
+"are available. Disable "
+"this setting to show "
+"nothing (even if updates "
+"are available). "
+"<i>Important:</i> An "
+"active Divi Den Pro "
+"subscription is required "
+"to get updates. If no "
+"active subscription is "
+"detected, no update "
+"notifications will be "
+"shown (even if this "
+"setting is active)."
+msgstr ""
+
+#: ddpro-main.php:1343
+msgid ""
+"Activate your Pro "
+"Subscription to get "
+"updates again"
+msgstr ""
+
+#: ddpro-main.php:1348
+#: ddpro-main.php:1364
+#: ddpro-main.php:1383
+msgid ""
+"Hide Plugin Name From "
+"Left-side Menu"
+msgstr ""
+
+#: ddpro-main.php:1361
+#: ddpro-main.php:1381
+#: ddpro-main.php:1400
+#: ddpro-main.php:1496
+msgid "Default: No"
+msgstr ""
+
+#: ddpro-main.php:1362
+msgid ""
+"Use this option to make "
+"your plugin discoverable "
+"only from the plugins "
+"list."
+msgstr ""
+
+#: ddpro-main.php:1368
+msgid ""
+"Hide Plugin Panels from "
+"Customizer"
+msgstr ""
+
+#: ddpro-main.php:1381
+msgid ""
+"Use this option to hide "
+"plugin's panel from "
+"WordPress Customizer"
+msgstr ""
+
+#: ddpro-main.php:1387
+#: ddpro-main.php:1402
+msgid ""
+"Hide Elegant Themes Divi "
+"Premade Layouts Tab"
+msgstr ""
+
+#: ddpro-main.php:1400
+msgid ""
+"Don't show Elegant "
+"Themes free Premade "
+"layouts to WordPress "
+"admin users."
+msgstr ""
+
+#: ddpro-main.php:1403
+#: ddpro-main.php:1469
+msgid "Save Settings Only"
+msgstr ""
+
+#: ddpro-main.php:1403
+#: ddpro-main.php:1459
+#: ddpro-main.php:1469
+#: ddpro-main.php:1482
+msgid ""
+"One or more required "
+"fields are empty"
+msgstr ""
+
+#: ddpro-main.php:1407
+msgid "Branding and Naming"
+msgstr ""
+
+#: ddpro-main.php:1408
+msgid ""
+"Use the white label "
+"options here to "
+"customise the Divi Den "
+"Pro plugin to match your "
+"brand. Create a good "
+"first impression with "
+"your customers."
+msgstr ""
+
+#: ddpro-main.php:1410
+msgid ""
+"Plugin Name (required)"
+msgstr ""
+
+#: ddpro-main.php:1410
+msgid ""
+"Choose a plugin name "
+"that matches your "
+"company or brand. Short "
+"names look better when "
+"displayed in the left-"
+"side WordPress menu."
+msgstr ""
+
+#: ddpro-main.php:1410
+msgid ""
+"Special characters (@#$%"
+"\"&*') are not allowed."
+msgstr ""
+
+#: ddpro-main.php:1420
+msgid ""
+"Plugin URL (required)"
+msgstr ""
+
+#: ddpro-main.php:1420
+msgid ""
+"WordPress requires all "
+"plugins to list an "
+"active link. You can "
+"link to your contact "
+"page for example or "
+"another page on your "
+"website."
+msgstr ""
+
+#: ddpro-main.php:1420
+msgid ""
+"This link must be "
+"different from the "
+"author url listed below."
+msgstr ""
+
+#: ddpro-main.php:1428
+msgid ""
+"Plugin Icon (optional)"
+msgstr ""
+
+#: ddpro-main.php:1428
+msgid ""
+"This icon is displayed "
+"in the left-side menu."
+msgstr ""
+
+#: ddpro-main.php:1428
+msgid ""
+"You can use the default "
+"icon we made for you. Or "
+"upload your own."
+msgstr ""
+
+#: ddpro-main.php:1436
+msgid ""
+"Plugin Author "
+"Name(required)"
+msgstr ""
+
+#: ddpro-main.php:1436
+msgid ""
+"Choose an author name "
+"that matches your "
+"company or brand. Short "
+"names generally look "
+"better. This name is "
+"displayed in the plugins "
+"list."
+msgstr ""
+
+#: ddpro-main.php:1444
+msgid ""
+"Author URL (required)"
+msgstr ""
+
+#: ddpro-main.php:1444
+msgid ""
+"WordPress requires all "
+"plugins to list an "
+"active author link. Here "
+"you can link to your "
+"website homepage another "
+"page on your website."
+msgstr ""
+
+#: ddpro-main.php:1444
+msgid ""
+"This link must be "
+"different from the "
+"plugin url listed above."
+msgstr ""
+
+#: ddpro-main.php:1452
+msgid ""
+"Write a Helpful Plugin "
+"Description (required)"
+msgstr ""
+
+#: ddpro-main.php:1452
+msgid ""
+"Here you can justify the "
+"purpose of this plugin. "
+"The description is "
+"displayed in the plugins "
+"list. Write the "
+"description in such a "
+"way that people "
+"understand what the "
+"plugin is for. And why "
+"they should not "
+"deactivate or delete the "
+"plugin. You can use the "
+"default description if "
+"you like. "
+"<strong>Maximum "
+"characters recommended: "
+"400. Please do not use "
+"special characters like "
+"@#$%^&*"
+msgstr ""
+
+#: ddpro-main.php:1454
+msgid ""
+"Companion plugin for "
+"Divi Theme layouts. Get "
+"the latest CSS/"
+"JavaScript code updates "
+"and fixes. Keeps "
+"everything running "
+"smooth and secure."
+msgstr ""
+
+#: ddpro-main.php:1461
+msgid ""
+"Customer Contact Page"
+msgstr ""
+
+#: ddpro-main.php:1462
+msgid ""
+"Design Your White Label "
+"Plugin Homescreen"
+msgstr ""
+
+#: ddpro-main.php:1462
+msgid ""
+"This is the home screen "
+"your customers will see "
+"when white label mode is "
+"activated. Only this "
+"page will be visible to "
+"them and nothing else. "
+"Use this page to add "
+"your logo, name, "
+"instructions or whatever "
+"you want to say."
+msgstr ""
+
+#: ddpro-main.php:1470
+msgid ""
+"Preview the Homescreen"
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"Control White Label Mode"
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"What happens when I "
+"activate white label "
+"mode?"
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"All features, functions "
+"& layouts become hidden."
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"Only the white label "
+"plugin homescreen is "
+"visible to website "
+"admins."
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"How do I deactivate "
+"white label mode?"
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"Note that deactivating "
+"the Divi Den Pro plugin, "
+"does not deactivate "
+"white label mode. You "
+"must first use the "
+"secret admin url."
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"The secret admin url is "
+"automatically generated "
+"by combining your chosen "
+"plugin name and a suffix "
+"\"_wl\"."
+msgstr ""
+
+#: ddpro-main.php:1477
+msgid ""
+"It looks like this (note "
+"the <strong>“_wl”</"
+"strong> at the end):"
+msgstr ""
+
+#: ddpro-main.php:1480
+msgid ""
+"(ON) Deactivate White "
+"Label Mode"
+msgstr ""
+
+#: ddpro-main.php:1481
+msgid ""
+"(OFF) Activate White "
+"Label Mode"
+msgstr ""
+
+#: ddpro-main.php:1483
+msgid ""
+"Activate White Label Mode"
+msgstr ""
+
+#: ddpro-main.php:1503
+msgid ""
+"Confirm White Label "
+"Activation"
+msgstr ""
+
+#: ddpro-main.php:1504
+msgid "Step 1"
+msgstr ""
+
+#: ddpro-main.php:1504
+msgid ""
+"Copy and save your "
+"secret admin url. You "
+"will need it later."
+msgstr ""
+
+#: ddpro-main.php:1506
+msgid ""
+"Copy Url to Clipboard"
+msgstr ""
+
+#: ddpro-main.php:1508
+msgid "Step 2"
+msgstr ""
+
+#: ddpro-main.php:1511
+msgid ""
+"Deactivate White Label "
+"Mode"
+msgstr ""
+
+#: ddpro-main.php:1512
+msgid ""
+"Return the Divi Den Pro "
+"interface to its non-"
+"white-labelled state. "
+"All menus, features and "
+"layouts will become "
+"visible again to admin "
+"users."
+msgstr ""
+
+#: ddpro-main.php:1517
+msgid "Deactivate now"
+msgstr ""
+
+#: ddpro-main.php:1518
+msgid "Activate now"
+msgstr ""
+
+#: ddpro-main.php:1519
+msgid "Cancel"
+msgstr ""
+
+#: ddpro-main.php:1545
+msgid ""
+"Your Divi Den Pro "
+"Membership subscription "
+"is on hold. To restore "
+"access,  "
+msgstr ""
+
+#: ddpro-main.php:1545
+msgid ""
+"please reactivate your "
+"subscription"
+msgstr ""
+
+#: ddpro-main.php:1549
+msgid ""
+"Your License and API Key "
+"has been cancelled "
+"permanently. To get "
+"access to Divi Den Pro "
+"Layouts and Membership "
+"again, please"
+msgstr ""
+
+#: ddpro-main.php:1549
+msgid ""
+"buy a new subscription"
+msgstr ""
+
+#: ddpro-main.php:1549
+msgid ""
+"You can still use Free "
+"Divi Layouts if you "
+"install the "
+msgstr ""
+
+#: ddpro-main.php:1549
+msgid ""
+"Divi Den On Demand plugin"
+msgstr ""
+
+#: ddpro-main.php:1558
+msgid ""
+"White Label Mode <span "
+"style=\"color: "
+"#76F546\">(ON)</span>"
+msgstr ""
+
+#: ddpro-main.php:1559
+msgid ""
+"White Label Mode <span "
+"style=\"color: "
+"#FF2E72\">(OFF)</span>"
+msgstr ""
+
+#: ddpro-main.php:1565
+msgid "Theme Builder"
+msgstr ""
+
+#: ddpro-main.php:1570
+msgid "Advanced"
+msgstr ""
+
+#: ddpro-main.php:1584
+msgid ""
+"Subscription On Hold"
+msgstr ""
+
+#: ddpro-main.php:1625
+msgid ""
+"STATUS: White label mode "
+"is active."
+msgstr ""
+
+#: ddpro-main.php:1625
+msgid "Change"
+msgstr ""
+
+#: ddpro-main.php:1625
+msgid "Send Feedback"
+msgstr ""
+
+#: ddpro-main.php:1650
+#: include/diana/templates/diana-login-template.php:601
+#: include/diana/templates/diana-login-template.php:726
+#: include/diana/templates/diana-login-template.php:810
+#: include/diana/templates/diana-login-template.php:1042
+msgid "Register"
+msgstr ""
+
+#: ddpro-main.php:1654
+msgid "Save Setttings"
+msgstr ""
+
+#: ddpro-main.php:1699
+msgid ""
+"Your Divi Den Pro "
+"Subscription is on hold"
+msgstr ""
+
+#: ddpro-main.php:1700
+msgid ""
+"To get access to new "
+"layouts, please "
+"reactivate your "
+"subscription"
+msgstr ""
+
+#: ddpro-main.php:1703
+msgid ""
+"We Miss You Like Crazy"
+msgstr ""
+
+#: ddpro-main.php:1704
+msgid ""
+"While on hold - plugin "
+"security updates "
+"continue like normal, "
+"except if disabled by "
+"white label mode "
+"settings."
+msgstr ""
+
+#: ddpro-main.php:1705
+msgid ""
+"New layouts & modules "
+"have been added - "
+msgstr ""
+
+#: ddpro-main.php:1710
+msgid "browse layouts"
+msgstr ""
+
+#: ddpro-main.php:1711
+msgid ""
+"Reactivate For Full "
+"Access"
+msgstr ""
+
+#: ddpro-main.php:1735
+msgid "API Key Status"
+msgstr ""
+
+#: ddpro-main.php:1748
+#: js/ddp-admin.js:1081
+msgid "Remove this domain"
+msgstr ""
+
+#: ddpro-main.php:1757
+msgid ""
+"Register this domain for "
+"full access."
+msgstr ""
+
+#: ddpro-main.php:1757
+msgid "Find your API keys"
+msgstr ""
+
+#: ddpro-main.php:1770
+msgid "Registered, On Hold"
+msgstr ""
+
+#: ddpro-main.php:1770
+msgid "The domain "
+msgstr ""
+
+#: ddpro-main.php:1770
+msgid " is registered."
+msgstr ""
+
+#: ddpro-main.php:1770
+#: ddpro-main.php:1773
+msgid ""
+"What does <strong>On "
+"Hold</strong> mean?"
+msgstr ""
+
+#: ddpro-main.php:1773
+msgid ""
+"Not Registered, On Hold"
+msgstr ""
+
+#: ddpro-main.php:1773
+#: ddpro-main.php:1777
+#: ddpro-main.php:1781
+#: ddpro-main.php:1784
+msgid "The domain"
+msgstr ""
+
+#: ddpro-main.php:1773
+msgid ""
+" is not registered. "
+"Please re-enter your key."
+msgstr ""
+
+#: ddpro-main.php:1774
+#: ddpro-main.php:1778
+msgid "You have"
+msgstr ""
+
+#: ddpro-main.php:1774
+#: ddpro-main.php:1778
+msgid "domain/s remaining."
+msgstr ""
+
+#: ddpro-main.php:1777
+msgid "Registered"
+msgstr ""
+
+#: ddpro-main.php:1777
+msgid "is registered."
+msgstr ""
+
+#: ddpro-main.php:1781
+#: ddpro-main.php:1784
+msgid "Not Registered"
+msgstr ""
+
+#: ddpro-main.php:1781
+#: ddpro-main.php:1784
+msgid "is not registered."
+msgstr ""
+
+#: ddpro-main.php:1834
+#, php-format
+msgid "%s activated. "
+msgstr ""
+
+#: ddpro-main.php:1869
+msgid ""
+"Action Required: You "
+"have reached your "
+"activation limit, please "
+"upgrade your "
+"subscription for more "
+"sites. You can also "
+"remove unused sites. If "
+"you have an 'unlimited "
+"subscription', simply "
+"request more "
+"activation's - its fast "
+"and easy. For security "
+"reasons activation's are "
+"issued 50 at a time. "
+"Please <a "
+"target='_blank' "
+"href='https://seku.re/wp-"
+"den-suppor'>contact "
+"support</a> and we will "
+"take care if it "
+"immediately."
+msgstr ""
+
+#: ddpro-main.php:1935
+msgid ""
+"The API Key could not be "
+"deactivated. Use the API "
+"Key Deactivation to "
+"manually deactivate the "
+"API Key before "
+"activating a new API "
+"Key. If all else fails, "
+"go to Plugins, then "
+"deactivate and "
+"reactivate this plugin, "
+"or if a theme change "
+"themes, then change back "
+"to this theme, then go "
+"to the Settings for this "
+"plugin/theme and enter "
+"the API Key information "
+"again to activate it. "
+"Also check the My "
+"Account dashboard to see "
+"if the API Key for this "
+"site was still active "
+"before the error message "
+"was displayed."
+msgstr ""
+
+#: ddpro-main.php:1990
+msgid ""
+"API Key deactivated. "
+msgstr ""
+
+#: ddpro-main.php:2019
+msgid ""
+"Action required: for "
+"security reasons, Divi "
+"Den Pro Membership "
+"activation’s are issued "
+"50 sites/domains at a "
+"time. Don’t worry, your "
+"activation’s are "
+"unlimited. Please <a "
+"target=\"_blank\" href="
+"\"https://seku.re/wp-den-"
+"support\">submit a quick "
+"support request</a> with "
+"the message \"increase "
+"Divi Den Pro Membership "
+"activation limit\". We "
+"will increase it for you "
+"immediately. Thank you "
+"and sorry for the delay."
+msgstr ""
+
+#: ddpro-main.php:2055
+msgid "First steps…"
+msgstr ""
+
+#: ddpro-main.php:2060
+msgid "Gear Icon"
+msgstr ""
+
+#: ddpro-main.php:2061
+msgid ""
+"Watch this before you "
+"begin"
+msgstr ""
+
+#: ddpro-main.php:2061
+msgid ""
+"Important things to do "
+"before you start "
+"building pages"
+msgstr ""
+
+#: ddpro-main.php:2062
+msgid ""
+"Learn how to deactivate "
+"Divi local caching and "
+"JS minification, plugin "
+"caching and server "
+"caching."
+msgstr ""
+
+#: ddpro-main.php:2067
+msgid "Save Icon"
+msgstr ""
+
+#: ddpro-main.php:2068
+msgid ""
+"The \"Save\" button does "
+"not show."
+msgstr ""
+
+#: ddpro-main.php:2068
+msgid ""
+"I only see \"Try For Free"
+"\""
+msgstr ""
+
+#: ddpro-main.php:2069
+msgid ""
+"Just activated the API "
+"Key but unable to load/"
+"save layouts? Try this"
+msgstr ""
+
+#: ddpro-main.php:2074
+#: ddpro-main.php:2081
+msgid "Find Icon"
+msgstr ""
+
+#: ddpro-main.php:2075
+msgid ""
+"Finding & loading layouts"
+msgstr ""
+
+#: ddpro-main.php:2075
+msgid ""
+"Tips for finding "
+"relevant layouts fast"
+msgstr ""
+
+#: ddpro-main.php:2076
+msgid ""
+"How to search by "
+"keyword. Using filter "
+"options, collections, "
+"bundles, page types and "
+"topics. Saving to the "
+"library or loading "
+"direct to a page."
+msgstr ""
+
+#: ddpro-main.php:2082
+msgid ""
+"Finding & loading modules"
+msgstr ""
+
+#: ddpro-main.php:2082
+msgid ""
+"Load the right module "
+"from the right place"
+msgstr ""
+
+#: ddpro-main.php:2083
+msgid ""
+"How to filter by modules "
+"and save to library. "
+"Adding modules to a page."
+msgstr ""
+
+#: ddpro-main.php:2088
+msgid "Updates Icon"
+msgstr ""
+
+#: ddpro-main.php:2089
+msgid ""
+"Making content & style "
+"updates"
+msgstr ""
+
+#: ddpro-main.php:2089
+msgid ""
+"Modify content and "
+"design to suit your needs"
+msgstr ""
+
+#: ddpro-main.php:2090
+msgid ""
+"How to make updates "
+"using Divi module "
+"settings. Content, "
+"design and custom tab "
+"options."
+msgstr ""
+
+#: ddpro-main.php:2097
+#: ddpro-main.php:2171
+msgid "DevTools Icon"
+msgstr ""
+
+#: ddpro-main.php:2098
+msgid ""
+"Using developer tools"
+msgstr ""
+
+#: ddpro-main.php:2098
+msgid ""
+"How to customize "
+"ANYTHING easily using "
+"developer tools"
+msgstr ""
+
+#: ddpro-main.php:2104
+msgid "Problems Icon"
+msgstr ""
+
+#: ddpro-main.php:2105
+msgid ""
+"Common problems and "
+"troubleshooting tips"
+msgstr ""
+
+#: ddpro-main.php:2105
+msgid ""
+"Missing options or not "
+"able to save/load "
+"layouts?"
+msgstr ""
+
+#: ddpro-main.php:2106
+msgid ""
+"Some tips for "
+"troubleshooting..."
+msgstr ""
+
+#: ddpro-main.php:2111
+msgid "Advanced Icon"
+msgstr ""
+
+#: ddpro-main.php:2112
+msgid ""
+"Advanced updates - "
+"custom CSS"
+msgstr ""
+
+#: ddpro-main.php:2112
+msgid ""
+"Where to find additional "
+"CSS or write your own"
+msgstr ""
+
+#: ddpro-main.php:2113
+msgid ""
+"Finding and using custom "
+"CSS files."
+msgstr ""
+
+#: ddpro-main.php:2118
+msgid "Blog Icon"
+msgstr ""
+
+#: ddpro-main.php:2119
+msgid ""
+"Setting up blog layouts "
+"& blog modules"
+msgstr ""
+
+#: ddpro-main.php:2119
+msgid ""
+"Assign posts, "
+"categories, featured "
+"images and more"
+msgstr ""
+
+#: ddpro-main.php:2120
+msgid ""
+"Tips for setting up "
+"posts, image sizes, "
+"image optimization, tick "
+"which categories to "
+"display on page & dummy "
+"posts if needed."
+msgstr ""
+
+#: ddpro-main.php:2125
+msgid "White Label Icon"
+msgstr ""
+
+#: ddpro-main.php:2126
+msgid ""
+"White label mode - "
+"setup, test, activate"
+msgstr ""
+
+#: ddpro-main.php:2126
+msgid ""
+"How to brand the Pro "
+"plugin as your own"
+msgstr ""
+
+#: ddpro-main.php:2127
+msgid ""
+"Options & settings to "
+"get the most out of "
+"white labelling"
+msgstr ""
+
+#: ddpro-main.php:2132
+msgid "Lock Icon"
+msgstr ""
+
+#: ddpro-main.php:2133
+msgid ""
+"Can't get back to the "
+"pro plugin dashboard?"
+msgstr ""
+
+#: ddpro-main.php:2133
+msgid "Here's how to do it"
+msgstr ""
+
+#: ddpro-main.php:2134
+msgid ""
+"White label mode - using "
+"the secret link to "
+"access the Pro dashboard."
+msgstr ""
+
+#: ddpro-main.php:2141
+msgid "Builder Icon"
+msgstr ""
+
+#: ddpro-main.php:2142
+msgid ""
+"How to use premade Divi "
+"theme builder layouts "
+msgstr ""
+
+#: ddpro-main.php:2148
+msgid ""
+"Headers and Footers Icon"
+msgstr ""
+
+#: ddpro-main.php:2149
+msgid ""
+"How to add headers and "
+"footers"
+msgstr ""
+
+#: ddpro-main.php:2155
+msgid "Menus Icon"
+msgstr ""
+
+#: ddpro-main.php:2156
+msgid ""
+"How to add custom "
+"navigation menus "
+msgstr ""
+
+#: ddpro-main.php:2162
+msgid "404 Icon"
+msgstr ""
+
+#: ddpro-main.php:2163
+msgid ""
+"How to add a 404 page "
+"template"
+msgstr ""
+
+#: ddpro-main.php:2172
+msgid ""
+"Quick overview of the "
+"Divi Den Pro theme "
+"builder"
+msgstr ""
+
+#: ddpro-main.php:2178
+msgid "Login Icon"
+msgstr ""
+
+#: ddpro-main.php:2179
+msgid ""
+"How to set up a custom "
+"Divi login page"
+msgstr ""
+
+#: ddpro-main.php:2185
+msgid "Coming Soon Icon"
+msgstr ""
+
+#: ddpro-main.php:2186
+msgid ""
+"Create a custom coming "
+"soon page template"
+msgstr ""
+
+#: ddpro-main.php:2192
+msgid "Pop Up Icon"
+msgstr ""
+
+#: ddpro-main.php:2193
+msgid ""
+"How to trigger a Divi "
+"pop-up by adding a CSS "
+"class"
+msgstr ""
+
+#: ddpro-main.php:2267
+msgid ""
+"Each API Key activation "
+"saves the current domain "
+"name to your account. "
+"The domain is saved "
+"forever until it is "
+"\"released\" manually."
+msgstr ""
+
+#: ddpro-main.php:2267
+msgid ""
+"Need more domains? If "
+"you use staging sites, "
+"remember to release "
+"unused domain license "
+"keys after the project "
+"is live."
+msgstr ""
+
+#: ddpro-main.php:2267
+#: ddpro.php:68
+msgid "Contact support"
+msgstr ""
+
+#: ddpro-main.php:2267
+msgid ""
+"if you need assistance"
+msgstr ""
+
+#: ddpro-main.php:2699
+#, php-format
+msgid ""
+"The API key for %s has "
+"expired. You can "
+"reactivate or purchase "
+"an API key from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2706
+#, php-format
+msgid ""
+"The subscription for %s "
+"is on-hold. You can "
+"reactivate the "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2713
+#, php-format
+msgid ""
+"The subscription for %s "
+"has been cancelled. You "
+"can renew the "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>. A new "
+"API key will be emailed "
+"to you after your order "
+"has been completed."
+msgstr ""
+
+#: ddpro-main.php:2720
+#, php-format
+msgid ""
+"The subscription for %s "
+"has expired. You can "
+"reactivate the "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2727
+#, php-format
+msgid ""
+"The subscription for %s "
+"has been suspended. You "
+"can reactivate the "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2734
+#, php-format
+msgid ""
+"The subscription for %s "
+"is still pending. You "
+"can check on the status "
+"of the subscription from "
+"your account <a href=\"%s"
+"\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2741
+#, php-format
+msgid ""
+"The subscription for %s "
+"has been placed in the "
+"trash and will be "
+"deleted soon. You can "
+"purchase a new "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2748
+#, php-format
+msgid ""
+"A subscription for %s "
+"could not be found. You "
+"can purchase a "
+"subscription from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2755
+#, php-format
+msgid ""
+"A API key for %s could "
+"not be found. Maybe you "
+"forgot to enter an API "
+"key when setting up %s, "
+"or the key was "
+"deactivated in your "
+"account. You can "
+"reactivate or purchase "
+"an API key from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2762
+#, php-format
+msgid ""
+"Download permission for "
+"%s has been revoked "
+"possibly due to an API "
+"key or subscription "
+"expiring. You can "
+"reactivate or purchase "
+"an API key from your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro-main.php:2769
+#, php-format
+msgid ""
+"%s has not been "
+"activated. Go to the "
+"settings page and enter "
+"the API key and API "
+"email to activate %s."
+msgstr ""
+
+#: ddpro-main.php:2776
+#, php-format
+msgid ""
+"You changed the "
+"subscription for %s, so "
+"you will need to enter "
+"your new API Key in the "
+"settings page. The API "
+"Key should have arrived "
+"in your email inbox, if "
+"not you can get it by "
+"logging into your "
+"account <a href=\"%s\" "
+"target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: ddpro.php:53
+msgid ""
+"<strong>Action Required:"
+"</strong> The Divi Theme "
+"is not installed. You "
+"must install the Divi "
+"Theme for the "
+msgstr ""
+
+#: ddpro.php:53
+msgid ""
+" to work. If you do not "
+"already have it,"
+msgstr ""
+
+#: ddpro.php:53
+msgid "Get it here"
+msgstr ""
+
+#: ddpro.php:68
+msgid ""
+"<strong>WARNING:</"
+"strong> Two different "
+"versions of the Divi Den "
+"Pro plugin was detected. "
+"Only one version should "
+"be used. To avoid "
+"errors, please"
+msgstr ""
+
+#: ddpro.php:68
+msgid "deactivate"
+msgstr ""
+
+#: ddpro.php:68
+msgid ""
+"either \"Divi Den Pro DM"
+"\" or \"Divi Den Pro\"."
+msgstr ""
+
+#: ddpro.php:68
+msgid ""
+"<strong>IMPORTANT:</"
+"strong> Please create a "
+"backup of your website "
+"and database before "
+"making the switch. "
+"Backward compatibility "
+"cannot be guaranteed. "
+"Please proceed with "
+"caution and test "
+"thoroughly after any "
+"changes. "
+msgstr ""
+
+#: ddpro.php:68
+msgid ""
+"if you have any questions"
+msgstr ""
+
+#: ddpro.php:357
+msgid ""
+"Divi Den on Demand BETA "
+"plugin is not required "
+"anymore. It has been "
+"deactivated and can "
+"safely be removed - "
+msgstr ""
+
+#: ddpro.php:359
+msgid ""
+"Go to plugins page to "
+"remove"
+msgstr ""
+
+#: ddpro.php:382
+msgid "Important Notice"
+msgstr ""
+
+#: ddpro.php:382
+msgid ""
+"Are you using Divi Den "
+"Pro \"Pop-ups\" that "
+"trigger \"on click\"? "
+"Please enable the "
+"scripts once more by "
+"going to Customizer > "
+"Divi Den Pro Global "
+"Settings > Pop-up "
+"Customizer. Default: "
+"Changed to \"Checked\""
+msgstr ""
+
+#: ddpro.php:397
+msgid "Settings"
+msgstr ""
+
+#: ddpro.php:448
+msgid ""
+"<strong>Action Required:"
+"</strong> To avoid "
+"conflicts with "
+msgstr ""
+
+#: ddpro.php:448
+msgid ""
+" plugin, it is "
+"<strong>strongly "
+"recommended</strong> to "
+"remove the following "
+"plugins: <strong><i>"
+msgstr ""
+
+#: ddpro.php:450
+msgid ""
+" Please <a href="
+"\"https://seku.re/"
+"conflict-avoid-ddp\" "
+"target=\"_blank\">read "
+"this article</a> for "
+"best results. Then  <a "
+"href=\""
+msgstr ""
+
+#: ddpro.php:452
+msgid ""
+"\">go to the plugins "
+"page</a> to deactivate "
+"and remove the plugins."
+msgstr ""
+
+#: include/coco/js/socials-coco.js:18
+#: include/diana/js/diana-social-icons.js:12
+#: include/tina/js/contact-page1/tinaContactSidewalk.js:52
+#: include/tina/js/contact-page2/tinaContactFormTalkNow.js:23
+#: include/tina/js/home3/tinaHeaderSeeThis.js:25
+#: include/tina/js/home4/tinaFooterTimeTo.js:19
+#: include/tina/js/home5/tinaFooterIcan.js:24
+#: include/tina/js/home5/tinaHeaderYourDecisions.js:25
+#: include/tina/js/tina-lead-3/tinaHeaderSteam.js:25
+msgid "Follow on"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:5
+#: include/freddie/templates/freddie-custom-portfolio.php:5
+msgid ""
+"Filterable Portfolio"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:25
+#: include/freddie/templates/freddie-custom-portfolio.php:25
+msgid "Content"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:26
+#: include/freddie/templates/freddie-custom-portfolio.php:26
+msgid "Elements"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:31
+#: include/coco/php/ddpro-custom-portfolio.php:203
+#: include/freddie/templates/freddie-custom-portfolio.php:31
+#: include/freddie/templates/freddie-custom-portfolio.php:203
+msgid "Layout"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:32
+#: include/coco/php/ddpro-custom-portfolio.php:174
+#: include/freddie/templates/freddie-custom-portfolio.php:32
+#: include/freddie/templates/freddie-custom-portfolio.php:174
+msgid "Overlay"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:34
+#: include/freddie/templates/freddie-custom-portfolio.php:34
+msgid "Text"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:37
+#: include/coco/php/ddpro-custom-portfolio.php:102
+#: include/freddie/templates/freddie-custom-portfolio.php:37
+#: include/freddie/templates/freddie-custom-portfolio.php:102
+msgid "Image"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:45
+#: include/freddie/templates/freddie-custom-portfolio.php:45
+msgid "Title"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:56
+#: include/freddie/templates/freddie-custom-portfolio.php:56
+msgid "Filter Criteria"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:65
+#: include/freddie/templates/freddie-custom-portfolio.php:65
+msgid "Meta"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:71
+#: include/freddie/templates/freddie-custom-portfolio.php:71
+msgid "Pagination"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:110
+#: include/coco/php/ddpro-custom-portfolio.php:372
+#: include/freddie/templates/freddie-custom-portfolio.php:110
+#: include/freddie/templates/freddie-custom-portfolio.php:372
+msgid "Image Box Shadow"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:160
+#: include/freddie/templates/freddie-custom-portfolio.php:160
+msgid "Portfolio Filters"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:165
+#: include/freddie/templates/freddie-custom-portfolio.php:165
+msgid ""
+"Active Portfolio Filter"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:170
+#: include/freddie/templates/freddie-custom-portfolio.php:170
+msgid "Portfolio Image"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:178
+#: include/freddie/templates/freddie-custom-portfolio.php:178
+msgid "Overlay Icon"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:182
+#: include/freddie/templates/freddie-custom-portfolio.php:182
+msgid "Portfolio Title"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:186
+#: include/freddie/templates/freddie-custom-portfolio.php:186
+msgid "Portfolio Post Meta"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:190
+#: include/freddie/templates/freddie-custom-portfolio.php:190
+msgid ""
+"Portfolio Pagination"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:194
+#: include/freddie/templates/freddie-custom-portfolio.php:194
+msgid ""
+"Pagination Active Page"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:207
+#: include/freddie/templates/freddie-custom-portfolio.php:207
+msgid "Fullwidth"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:208
+#: include/freddie/templates/freddie-custom-portfolio.php:208
+msgid "Grid"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:215
+#: include/freddie/templates/freddie-custom-portfolio.php:215
+msgid ""
+"Choose your desired "
+"portfolio layout style."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:223
+#: include/freddie/templates/freddie-custom-portfolio.php:223
+msgid "Posts Number"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:226
+#: include/freddie/templates/freddie-custom-portfolio.php:226
+msgid ""
+"Define the number of "
+"projects that should be "
+"displayed per page."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:233
+#: include/freddie/templates/freddie-custom-portfolio.php:233
+msgid "Include Categories"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:235
+#: include/freddie/templates/freddie-custom-portfolio.php:235
+msgid ""
+"Select the categories "
+"that you would like to "
+"include in the feed."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:244
+#: include/freddie/templates/freddie-custom-portfolio.php:244
+msgid "Show Title"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:252
+#: include/freddie/templates/freddie-custom-portfolio.php:252
+msgid ""
+"Turn project titles on "
+"or off."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:255
+#: include/freddie/templates/freddie-custom-portfolio.php:255
+msgid "Show Categories"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:263
+#: include/freddie/templates/freddie-custom-portfolio.php:263
+msgid ""
+"Turn the category links "
+"on or off."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:266
+#: include/freddie/templates/freddie-custom-portfolio.php:266
+msgid "Show Pagination"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:274
+#: include/freddie/templates/freddie-custom-portfolio.php:274
+msgid ""
+"Enable or disable "
+"pagination for this feed."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:277
+#: include/freddie/templates/freddie-custom-portfolio.php:277
+#: main/wp-customizer/panels-controls.php:4963
+msgid "Text Color"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:281
+#: include/freddie/templates/freddie-custom-portfolio.php:281
+msgid "Dark"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:282
+#: include/freddie/templates/freddie-custom-portfolio.php:282
+msgid "Light"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:286
+#: include/freddie/templates/freddie-custom-portfolio.php:286
+msgid ""
+"Here you can choose "
+"whether your text should "
+"be light or dark. If you "
+"are working with a dark "
+"background, then your "
+"text should be light. If "
+"your background is "
+"light, then your text "
+"should be set to dark."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:289
+#: include/freddie/templates/freddie-custom-portfolio.php:289
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:300
+#: include/freddie/templates/freddie-custom-portfolio.php:300
+msgid "Zoom Icon Color"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:308
+#: include/freddie/templates/freddie-custom-portfolio.php:308
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:333
+#: include/freddie/templates/freddie-custom-portfolio.php:333
+msgid "Disable on"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:336
+#: include/freddie/templates/freddie-custom-portfolio.php:336
+msgid "Phone"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:337
+#: include/freddie/templates/freddie-custom-portfolio.php:337
+msgid "Tablet"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:338
+#: include/freddie/templates/freddie-custom-portfolio.php:338
+msgid "Desktop"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:342
+#: include/freddie/templates/freddie-custom-portfolio.php:342
+msgid ""
+"This will disable the "
+"module on selected "
+"devices"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:347
+#: include/freddie/templates/freddie-custom-portfolio.php:347
+msgid "Admin Label"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:349
+#: include/freddie/templates/freddie-custom-portfolio.php:349
+msgid ""
+"This will change the "
+"label of the module in "
+"the builder for easy "
+"identification."
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:353
+#: include/freddie/templates/freddie-custom-portfolio.php:353
+msgid "CSS ID"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:361
+#: include/freddie/templates/freddie-custom-portfolio.php:361
+msgid "CSS Class"
+msgstr ""
+
+#: include/coco/php/ddpro-custom-portfolio.php:649
+#: include/freddie/js/freddieScriptMusic.js:24
+#: include/freddie/templates/freddie-custom-portfolio.php:649
+#: js/ddp-admin-custom-icons.js:40
+#: js/ddp-vb-admin-custom-icons.js:93
+msgid "All"
+msgstr ""
+
+#: include/diana/templates/diana-author-sidebar.php:7
+msgid "Author: "
+msgstr ""
+
+#: include/diana/templates/diana-author-sidebar.php:23
+msgid "'s Latest Posts"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:62
+#, php-format
+msgid ""
+"%1$s &lsaquo; %2$s "
+"&#8212; WordPress"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:117
+msgid ""
+"https://wordpress.org/"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:118
+msgid ""
+"Powered by WordPress"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:254
+#, php-format
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:314
+msgid ""
+"<strong>ERROR</strong>: "
+"Enter a username or "
+"email address."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:318
+msgid ""
+"<strong>ERROR</strong>: "
+"There is no user "
+"registered with that "
+"email address."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:339
+msgid ""
+"<strong>ERROR</strong>: "
+"Invalid username or "
+"email."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:362
+msgid ""
+"Someone has requested a "
+"password reset for the "
+"following account:"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:364
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:366
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:367
+msgid ""
+"If this was a mistake, "
+"just ignore this email "
+"and nothing will happen."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:368
+msgid ""
+"To reset your password, "
+"visit the following "
+"address:"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:372
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:548
+msgid ""
+"Your password reset link "
+"appears to be invalid. "
+"Please request a new "
+"link below."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:550
+msgid ""
+"Your password reset link "
+"has expired. Please "
+"request a new link below."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:571
+msgid "Lost Password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:571
+msgid ""
+"Please enter your "
+"username or email "
+"address. You will "
+"receive a link to create "
+"a new password via email."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:583
+#: include/diana/templates/diana-login-template.php:1008
+msgid ""
+"Username or Email Address"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:594
+msgid "Get New Password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:598
+#: include/diana/templates/diana-login-template.php:664
+#: include/diana/templates/diana-login-template.php:723
+#: include/diana/templates/diana-login-template.php:814
+msgid "Log in"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:649
+msgid ""
+"The passwords do not "
+"match."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:664
+msgid "Password Reset"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:664
+msgid ""
+"Your password has been "
+"reset."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:672
+#: include/diana/templates/diana-login-template.php:719
+msgid "Reset Password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:672
+msgid ""
+"Enter your new password "
+"below."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:680
+msgid "New password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:690
+msgid "Strength indicator"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:695
+msgid ""
+"Confirm use of weak "
+"password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:701
+msgid ""
+"Confirm new password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:788
+msgid "Registration Form"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:788
+msgid ""
+"Register For This Site"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:792
+msgid "Username"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:796
+msgid "Email"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:807
+msgid ""
+"Registration "
+"confirmation will be "
+"emailed to you."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:816
+#: include/diana/templates/diana-login-template.php:1050
+msgid "Lost your password?"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:826
+msgid "Invalid request."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:835
+msgid "Invalid key"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:857
+msgid ""
+"User action confirmed."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:901
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: "
+"Cookies are blocked due "
+"to unexpected output. "
+"For help, please see <a "
+"href=\"%1$s\">this "
+"documentation</a> or try "
+"the <a href=\"%2$s"
+"\">support forums</a>."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:902
+#: include/diana/templates/diana-login-template.php:907
+msgid ""
+"https://codex.wordpress."
+"org/Cookies"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:902
+msgid ""
+"https://wordpress.org/"
+"support/"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:906
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: "
+"Cookies are blocked or "
+"not supported by your "
+"browser. You must <a "
+"href=\"%s\">enable "
+"cookies</a> to use "
+"WordPress."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:925
+msgid ""
+"You have logged in "
+"successfully."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:962
+msgid ""
+"Your session has "
+"expired. Please log in "
+"to continue where you "
+"left off."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:966
+msgid ""
+"You are now logged out."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:968
+msgid ""
+"User registration is "
+"currently not allowed."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:970
+msgid ""
+"Check your email for the "
+"confirmation link."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:972
+msgid ""
+"Check your email for "
+"your new password."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:974
+msgid ""
+"Registration complete. "
+"Please check your email."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:976
+msgid ""
+"<strong>You have "
+"successfully updated "
+"WordPress!</strong> "
+"Please log back in to "
+"see what&#8217;s new."
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:993
+#: include/diana/templates/diana-login-template.php:1025
+msgid "Log In"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:1012
+msgid "Password"
+msgstr ""
+
+#: include/diana/templates/diana-login-template.php:1023
+msgid "Remember Me"
+msgstr ""
+
+#: include/diana/templates/diana-search-sidebar.php:8
+msgid ""
+"You've Searched for ''"
+msgstr ""
+
+#: include/diana/templates/diana-single-blog-post.php:175
+msgid "Pages:"
+msgstr ""
+
+#: include/falkor/js/falkor_divi.js:601
+#: include/falkor/js/falkor_divi.js:605
+#: include/jackson/js/jackson_divi.js:154
+#: include/mozart/js/mozart_divi.js:195
+#: include/unicorn/js/unicorn_divi.js:454
+msgid "Surname"
+msgstr ""
+
+#: include/falkor/js/falkor_divi.js:604
+#: include/jackson/js/jackson_divi.js:153
+#: include/mozart/js/mozart_divi.js:194
+#: include/unicorn/js/unicorn_divi.js:453
+msgid "Last Name"
+msgstr ""
+
+#: include/falkor/js/falkor_divi.js:606
+#: include/jackson/js/jackson_divi.js:155
+#: include/mozart/js/mozart_divi.js:196
+#: include/unicorn/js/unicorn_divi.js:455
+msgid "Name"
+msgstr ""
+
+#: include/freddie/js/freddieScriptPopProduct.js:57
+msgid "All Work"
+msgstr ""
+
+#: include/freddie/js/freddieScriptsPricingTables.js:23
+msgid "Previous"
+msgstr ""
+
+#: include/pegasus/js/pegasus_divi.js:538
+msgid "PREV"
+msgstr ""
+
+#: include/pegasus/js/pegasus_divi.js:538
+msgid "NEXT"
+msgstr ""
+
+#: include/tina/js/magazine/tinaBlogRainFalling.js:30
+msgid "Read"
+msgstr ""
+
+#: js/ddp-admin-custom-icons.js:40
+#: js/ddp-vb-admin-custom-icons.js:93
+msgid "Divi Icons"
+msgstr ""
+
+#: js/ddp-admin-custom-icons.js:40
+msgid ""
+"Font Awesome 5 Free\" "
+"Icons"
+msgstr ""
+
+#: js/ddp-admin-custom-icons.js:40
+msgid ""
+"Material Design\" Icons"
+msgstr ""
+
+#: js/ddp-admin-custom-icons.js:40
+msgid ""
+"Search icons (keyword)"
+msgstr ""
+
+#: js/ddp-admin.js:122
+msgid ""
+"One moment please... "
+"Activating white label "
+"mode"
+msgstr ""
+
+#: js/ddp-admin.js:123
+msgid ""
+"One moment please... "
+"Deactivating white label "
+"mode"
+msgstr ""
+
+#: js/ddp-admin.js:372
+msgid ""
+"<strong>Success!</"
+"strong> Your section/"
+"module is being saved to "
+"your local Divi library."
+msgstr ""
+
+#: js/ddp-admin.js:373
+msgid ""
+"Choose your next step..."
+msgstr ""
+
+#: js/ddp-admin.js:374
+msgid ""
+"1. Find new modules and "
+"save to your library"
+msgstr ""
+
+#: js/ddp-admin.js:375
+msgid ""
+"Find New Pro Modules"
+msgstr ""
+
+#: js/ddp-admin.js:376
+msgid ""
+"2. Begin editing - Use "
+"the \"Add From Library\" "
+"tab to load sections/"
+"modules from local Divi "
+"Library"
+msgstr ""
+
+#: js/ddp-admin.js:377
+msgid ""
+"To Continue - Save and "
+"Reload Page"
+msgstr ""
+
+#: js/ddp-admin.js:378
+msgid ""
+"(please do it manually "
+"if you are in Divi "
+"Frontend Builder or Divi "
+"Theme Builder)"
+msgstr ""
+
+#: js/ddp-admin.js:496
+#: js/ddp-admin.js:505
+msgid ""
+"Important: if you're "
+"replacing the content, "
+"please manually clear "
+"the layout and update "
+"the page, then load the "
+"new layout."
+msgstr ""
+
+#: js/ddp-admin.js:529
+#: js/ddp-admin.js:547
+#: js/ddp-admin.js:578
+#: js/ddp-admin.js:594
+msgid "Add From Library"
+msgstr ""
+
+#: js/ddp-admin.js:578
+#: js/ddp-admin.js:591
+msgid "New Module"
+msgstr ""
+
+#: js/ddp-admin.js:978
+msgid ""
+"Caution: While a domain "
+"is not actively "
+"registered, some plugin "
+"functions will not be "
+"available. Live layouts "
+"and modules may be "
+"affected. Proceed with "
+"caution."
+msgstr ""
+
+#: js/ddp-tb-admin.js:5
+#: js/ddp-tb-admin.js:17
+msgid ""
+"Divi Den Pro Templates "
+"for Divi Theme Builder"
+msgstr ""
+
+#: js/ddp-tb-admin.js:8
+msgid ""
+"Read / Watch A Quick "
+"Tutorial"
+msgstr ""
+
+#: js/ddp-tb-admin.js:11
+msgid ""
+"Back to Divi Theme "
+"Builder"
+msgstr ""
+
+#: js/ddp-vb-admin-custom-icons.js:93
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: js/ddp-vb-admin-custom-icons.js:93
+msgid "Material Icons"
+msgstr ""
+
+#: js/ddp-vb-admin-custom-icons.js:93
+msgid "Search icons"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:134
+msgid " Pages Settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:135
+#: main/wp-customizer/panels-controls.php:142
+#: main/wp-customizer/panels-controls.php:149
+msgid "Change "
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:135
+msgid " settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:141
+msgid " Blog Settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:142
+msgid " blog settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:148
+msgid " Global Settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:149
+msgid " global settings"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:158
+#: main/wp-customizer/panels-controls.php:342
+msgid ""
+"Global Archive Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:170
+msgid ""
+"Load Global Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:182
+#: main/wp-customizer/panels-controls.php:2690
+msgid ""
+"404 Page Not Found "
+"Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:195
+msgid ""
+"Load Not Found Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:206
+#: main/wp-customizer/panels-controls.php:928
+msgid ""
+"Category Archive Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:218
+msgid ""
+"Load Category Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:227
+#: main/wp-customizer/panels-controls.php:1381
+msgid ""
+"Tag Archive Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:239
+msgid "Load Tag Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:249
+#: main/wp-customizer/panels-controls.php:1835
+msgid ""
+"Author Archive Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:262
+msgid ""
+"Load Author Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:272
+#: main/wp-customizer/panels-controls.php:2446
+msgid ""
+"Search Results Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:292
+msgid ""
+"Load Search Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:302
+msgid ""
+"Global Navigation Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:320
+msgid ""
+"Diana - Row - With "
+"Sidebar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:321
+#: main/wp-customizer/panels-controls.php:331
+msgid "Diana - 2 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:322
+#: main/wp-customizer/panels-controls.php:332
+msgid "Diana - 3 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:323
+#: main/wp-customizer/panels-controls.php:333
+msgid "Diana - 4 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:324
+#: main/wp-customizer/panels-controls.php:334
+#: main/wp-customizer/panels-controls.php:909
+#: main/wp-customizer/panels-controls.php:920
+#: main/wp-customizer/panels-controls.php:1353
+#: main/wp-customizer/panels-controls.php:1364
+#: main/wp-customizer/panels-controls.php:1811
+#: main/wp-customizer/panels-controls.php:1822
+#: main/wp-customizer/panels-controls.php:2434
+#: main/wp-customizer/panels-controls.php:2439
+#: main/wp-customizer/panels-controls.php:2664
+#: main/wp-customizer/panels-controls.php:2702
+#: main/wp-customizer/panels-controls.php:6116
+#: main/wp-customizer/panels-controls.php:6124
+msgid ""
+"Disabled (use WordPress "
+"default)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+#: main/wp-customizer/panels-controls.php:929
+#: main/wp-customizer/panels-controls.php:1382
+#: main/wp-customizer/panels-controls.php:1836
+#: main/wp-customizer/panels-controls.php:2447
+#: main/wp-customizer/panels-controls.php:2691
+#: main/wp-customizer/panels-controls.php:2772
+#: main/wp-customizer/panels-controls.php:2821
+#: main/wp-customizer/panels-controls.php:3957
+#: main/wp-customizer/panels-controls.php:4020
+#: main/wp-customizer/panels-controls.php:4239
+#: main/wp-customizer/panels-controls.php:4445
+#: main/wp-customizer/panels-controls.php:4458
+#: main/wp-customizer/panels-controls.php:4498
+#: main/wp-customizer/panels-controls.php:5116
+#: main/wp-customizer/panels-controls.php:5179
+#: main/wp-customizer/panels-controls.php:6138
+#: main/wp-customizer/panels-controls.php:6644
+msgid ""
+"Learn More - Watch a "
+"short video tutorial"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+msgid ""
+"This will rewrite your "
+"current category, tag "
+"and author page "
+"templates. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+#: main/wp-customizer/panels-controls.php:929
+#: main/wp-customizer/panels-controls.php:2447
+#: main/wp-customizer/panels-controls.php:2691
+#: main/wp-customizer/panels-controls.php:2772
+#: main/wp-customizer/panels-controls.php:3957
+#: main/wp-customizer/panels-controls.php:4020
+#: main/wp-customizer/panels-controls.php:4239
+#: main/wp-customizer/panels-controls.php:4445
+#: main/wp-customizer/panels-controls.php:5179
+#: main/wp-customizer/panels-controls.php:6138
+msgid ""
+"First save some here"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+msgid ""
+"After saving they will "
+"appear in the drop-down "
+"below. You can also "
+"modify certain saved "
+"templates <a href=\"/wp-"
+"admin/edit.php?"
+"post_type=et_pb_layout&layout_category=global-"
+"archive-page\" target="
+"\"_blank\">in the Divi "
+"Library"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+msgid ""
+"Saved Global Archive "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:343
+#: main/wp-customizer/panels-controls.php:929
+#: main/wp-customizer/panels-controls.php:1382
+#: main/wp-customizer/panels-controls.php:1836
+#: main/wp-customizer/panels-controls.php:2447
+#: main/wp-customizer/panels-controls.php:2691
+#: main/wp-customizer/panels-controls.php:2772
+#: main/wp-customizer/panels-controls.php:4445
+#: main/wp-customizer/panels-controls.php:5179
+#: main/wp-customizer/panels-controls.php:6138
+msgid ""
+"Choose a saved template "
+"to edit."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:381
+#: main/wp-customizer/panels-controls.php:659
+#: main/wp-customizer/panels-controls.php:1873
+#: main/wp-customizer/panels-controls.php:2151
+#: main/wp-customizer/panels-controls.php:6377
+msgid "Author Name Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:394
+#: main/wp-customizer/panels-controls.php:672
+#: main/wp-customizer/panels-controls.php:1886
+#: main/wp-customizer/panels-controls.php:2164
+#: main/wp-customizer/panels-controls.php:6390
+msgid ""
+"Author Name Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:415
+#: main/wp-customizer/panels-controls.php:693
+#: main/wp-customizer/panels-controls.php:1907
+#: main/wp-customizer/panels-controls.php:2185
+#: main/wp-customizer/panels-controls.php:6414
+msgid "Author Bio Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:428
+#: main/wp-customizer/panels-controls.php:706
+#: main/wp-customizer/panels-controls.php:1920
+#: main/wp-customizer/panels-controls.php:2198
+#: main/wp-customizer/panels-controls.php:6427
+msgid ""
+"Author Bio Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:448
+#: main/wp-customizer/panels-controls.php:744
+#: main/wp-customizer/panels-controls.php:966
+#: main/wp-customizer/panels-controls.php:1195
+#: main/wp-customizer/panels-controls.php:1420
+#: main/wp-customizer/panels-controls.php:1649
+#: main/wp-customizer/panels-controls.php:1940
+#: main/wp-customizer/panels-controls.php:2237
+#: main/wp-customizer/panels-controls.php:2465
+#: main/wp-customizer/panels-controls.php:6175
+msgid "Post Title Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:461
+#: main/wp-customizer/panels-controls.php:757
+#: main/wp-customizer/panels-controls.php:979
+#: main/wp-customizer/panels-controls.php:1208
+#: main/wp-customizer/panels-controls.php:1433
+#: main/wp-customizer/panels-controls.php:1662
+#: main/wp-customizer/panels-controls.php:1953
+#: main/wp-customizer/panels-controls.php:2250
+#: main/wp-customizer/panels-controls.php:2478
+#: main/wp-customizer/panels-controls.php:6188
+msgid ""
+"Post Title Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:484
+#: main/wp-customizer/panels-controls.php:780
+#: main/wp-customizer/panels-controls.php:1002
+#: main/wp-customizer/panels-controls.php:1231
+#: main/wp-customizer/panels-controls.php:1456
+#: main/wp-customizer/panels-controls.php:1685
+#: main/wp-customizer/panels-controls.php:1976
+#: main/wp-customizer/panels-controls.php:2273
+#: main/wp-customizer/panels-controls.php:2501
+#: main/wp-customizer/panels-controls.php:6211
+msgid "Post Title Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:499
+#: main/wp-customizer/panels-controls.php:795
+#: main/wp-customizer/panels-controls.php:1017
+#: main/wp-customizer/panels-controls.php:1246
+#: main/wp-customizer/panels-controls.php:1471
+#: main/wp-customizer/panels-controls.php:1700
+#: main/wp-customizer/panels-controls.php:1991
+#: main/wp-customizer/panels-controls.php:2288
+#: main/wp-customizer/panels-controls.php:2516
+#: main/wp-customizer/panels-controls.php:6227
+msgid ""
+"Post Title Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:516
+#: main/wp-customizer/panels-controls.php:812
+#: main/wp-customizer/panels-controls.php:1034
+#: main/wp-customizer/panels-controls.php:1263
+#: main/wp-customizer/panels-controls.php:1488
+#: main/wp-customizer/panels-controls.php:1717
+#: main/wp-customizer/panels-controls.php:2008
+#: main/wp-customizer/panels-controls.php:2305
+msgid "Date Font Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:527
+#: main/wp-customizer/panels-controls.php:823
+#: main/wp-customizer/panels-controls.php:1045
+#: main/wp-customizer/panels-controls.php:1274
+#: main/wp-customizer/panels-controls.php:1499
+#: main/wp-customizer/panels-controls.php:1728
+#: main/wp-customizer/panels-controls.php:2019
+#: main/wp-customizer/panels-controls.php:2316
+msgid "Date Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:543
+#: main/wp-customizer/panels-controls.php:839
+#: main/wp-customizer/panels-controls.php:1061
+#: main/wp-customizer/panels-controls.php:1290
+#: main/wp-customizer/panels-controls.php:1515
+#: main/wp-customizer/panels-controls.php:1744
+#: main/wp-customizer/panels-controls.php:2035
+#: main/wp-customizer/panels-controls.php:2332
+msgid ""
+"Date Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:555
+#: main/wp-customizer/panels-controls.php:1073
+#: main/wp-customizer/panels-controls.php:1527
+#: main/wp-customizer/panels-controls.php:2047
+#: main/wp-customizer/panels-controls.php:2558
+#: main/wp-customizer/panels-controls.php:6271
+msgid "Body Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:561
+#: main/wp-customizer/panels-controls.php:1079
+#: main/wp-customizer/panels-controls.php:1533
+#: main/wp-customizer/panels-controls.php:2053
+#: main/wp-customizer/panels-controls.php:2564
+#: main/wp-customizer/panels-controls.php:6277
+msgid "Body Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:584
+#: main/wp-customizer/panels-controls.php:1102
+#: main/wp-customizer/panels-controls.php:1556
+#: main/wp-customizer/panels-controls.php:2076
+#: main/wp-customizer/panels-controls.php:2587
+#: main/wp-customizer/panels-controls.php:6300
+msgid "Body Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:599
+#: main/wp-customizer/panels-controls.php:1117
+#: main/wp-customizer/panels-controls.php:1571
+#: main/wp-customizer/panels-controls.php:2091
+#: main/wp-customizer/panels-controls.php:2602
+msgid "Body Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:612
+#: main/wp-customizer/panels-controls.php:1130
+#: main/wp-customizer/panels-controls.php:1584
+#: main/wp-customizer/panels-controls.php:2104
+#: main/wp-customizer/panels-controls.php:2615
+msgid ""
+"Read More Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:618
+#: main/wp-customizer/panels-controls.php:1136
+#: main/wp-customizer/panels-controls.php:1590
+#: main/wp-customizer/panels-controls.php:2110
+#: main/wp-customizer/panels-controls.php:2621
+msgid "Read More Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:728
+#: main/wp-customizer/panels-controls.php:1179
+#: main/wp-customizer/panels-controls.php:1634
+#: main/wp-customizer/panels-controls.php:2221
+msgid ""
+"Meta Data and Continue "
+"Reading Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:851
+#: main/wp-customizer/panels-controls.php:1302
+#: main/wp-customizer/panels-controls.php:1756
+#: main/wp-customizer/panels-controls.php:2344
+msgid ""
+"Meta Data Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:857
+#: main/wp-customizer/panels-controls.php:1308
+#: main/wp-customizer/panels-controls.php:1762
+#: main/wp-customizer/panels-controls.php:2350
+#: main/wp-customizer/panels-controls.php:2540
+msgid "Meta Data Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:874
+#: main/wp-customizer/panels-controls.php:1325
+#: main/wp-customizer/panels-controls.php:1779
+#: main/wp-customizer/panels-controls.php:2367
+msgid ""
+"Continue Reading Text "
+"Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:880
+#: main/wp-customizer/panels-controls.php:1331
+#: main/wp-customizer/panels-controls.php:1785
+#: main/wp-customizer/panels-controls.php:2373
+msgid ""
+"Continue Reading Font "
+"Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:904
+#: main/wp-customizer/panels-controls.php:916
+#: main/wp-customizer/panels-controls.php:1348
+#: main/wp-customizer/panels-controls.php:1360
+#: main/wp-customizer/panels-controls.php:1806
+#: main/wp-customizer/panels-controls.php:1818
+msgid "Global Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:905
+msgid ""
+"Diana Category - Row - "
+"With Sidebar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:906
+#: main/wp-customizer/panels-controls.php:917
+msgid ""
+"Diana Category - 2 col "
+"grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:907
+#: main/wp-customizer/panels-controls.php:918
+msgid ""
+"Diana Category - 3 col "
+"grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:908
+#: main/wp-customizer/panels-controls.php:919
+msgid ""
+"Diana Category - 4 col "
+"grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:929
+msgid ""
+"This will rewrite your "
+"current Category page "
+"template. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:929
+#: main/wp-customizer/panels-controls.php:1382
+#: main/wp-customizer/panels-controls.php:1836
+#: main/wp-customizer/panels-controls.php:2447
+#: main/wp-customizer/panels-controls.php:2691
+#: main/wp-customizer/panels-controls.php:2772
+#: main/wp-customizer/panels-controls.php:4445
+#: main/wp-customizer/panels-controls.php:5179
+#: main/wp-customizer/panels-controls.php:6138
+msgid ""
+"After saving they will "
+"appear in the drop-down "
+"below. You can also "
+"modify certain saved "
+"templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:929
+#: main/wp-customizer/panels-controls.php:1382
+#: main/wp-customizer/panels-controls.php:1836
+#: main/wp-customizer/panels-controls.php:2447
+#: main/wp-customizer/panels-controls.php:2691
+#: main/wp-customizer/panels-controls.php:2772
+#: main/wp-customizer/panels-controls.php:3957
+#: main/wp-customizer/panels-controls.php:4020
+#: main/wp-customizer/panels-controls.php:4239
+#: main/wp-customizer/panels-controls.php:4445
+#: main/wp-customizer/panels-controls.php:5179
+#: main/wp-customizer/panels-controls.php:6138
+msgid "in the Divi Library"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:929
+msgid ""
+"Saved Category Archive "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1349
+msgid ""
+"Diana Tag - Row - With "
+"Sidebar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1350
+#: main/wp-customizer/panels-controls.php:1361
+msgid ""
+"Diana Tag - 2 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1351
+#: main/wp-customizer/panels-controls.php:1362
+msgid ""
+"Diana Tag - 3 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1352
+#: main/wp-customizer/panels-controls.php:1363
+msgid ""
+"Diana Tag - 4 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1382
+msgid ""
+"This will rewrite your "
+"current Tag template. No "
+"saved templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1382
+msgid ""
+"Saved Tag Archive "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1807
+msgid ""
+"Diana Author - Row - "
+"With Sidebar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1808
+#: main/wp-customizer/panels-controls.php:1819
+msgid ""
+"Diana Author - 2 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1809
+#: main/wp-customizer/panels-controls.php:1820
+msgid ""
+"Diana Author - 3 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1810
+#: main/wp-customizer/panels-controls.php:1821
+msgid ""
+"Diana Author - 4 col grid"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1836
+msgid ""
+"This will rewrite your "
+"current Author page "
+"template. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:1836
+msgid ""
+"Saved Author Archive "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2435
+msgid ""
+"Diana Search - Row - "
+"With Sidebar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2447
+msgid ""
+"This will rewrite your "
+"current Search Results "
+"template. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2447
+msgid ""
+"Saved Search Results "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2534
+msgid "Meta Data Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2636
+msgid ""
+"Separating Line Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2642
+msgid ""
+"Separating Line Thickness"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2691
+msgid ""
+"This will rewrite your "
+"current 404 page not "
+"found template. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2691
+msgid ""
+"Learn how to add a "
+"custom 404 Page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2691
+msgid ""
+"404 Page Not Found "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2771
+msgid "Top navigation menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2772
+msgid ""
+"This will rewrite your "
+"current global "
+"navigation menu. No "
+"saved templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2772
+msgid ""
+"Learn how to add a "
+"custom Navigation Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2772
+msgid ""
+"Saved Global Navigation "
+"Menus"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2788
+msgid ""
+"Fixed Global Navigation "
+"Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2798
+msgid "Global Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2803
+msgid ""
+"Divi Default Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2804
+msgid ""
+"Custom Divi Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2805
+msgid "Tab Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2806
+msgid "Click Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2807
+msgid "Info Mobile Menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2820
+msgid ""
+"Choose a mobile menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2821
+msgid ""
+"For default Divi mobile "
+"menu only: This option "
+"will rewrite your "
+"current mobile menu or "
+"add a new one. Your "
+"desktop menu will remain "
+"unchanged. Or you can "
+"only show the mobile "
+"menu by using the "
+"settings below."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2821
+msgid "Global Mobile Menus"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2821
+msgid ""
+"Choose a menu to edit."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2835
+msgid "Preview the menu"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2851
+msgid ""
+"Only show mobile menu "
+"(removes desktop menu)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2864
+msgid ""
+"Choose a screen size to "
+"show the Mobile menu "
+"from (and below)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2900
+#: main/wp-customizer/panels-controls.php:3124
+#: main/wp-customizer/panels-controls.php:3347
+#: main/wp-customizer/panels-controls.php:3568
+msgid ""
+"Menu Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2914
+#: main/wp-customizer/panels-controls.php:3138
+#: main/wp-customizer/panels-controls.php:3361
+#: main/wp-customizer/panels-controls.php:3637
+msgid "Top items Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2925
+#: main/wp-customizer/panels-controls.php:3149
+#: main/wp-customizer/panels-controls.php:3372
+#: main/wp-customizer/panels-controls.php:3648
+msgid ""
+"Top items Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2939
+#: main/wp-customizer/panels-controls.php:3163
+#: main/wp-customizer/panels-controls.php:3386
+#: main/wp-customizer/panels-controls.php:3662
+msgid ""
+"Top menu items Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2955
+#: main/wp-customizer/panels-controls.php:3179
+#: main/wp-customizer/panels-controls.php:3402
+#: main/wp-customizer/panels-controls.php:3678
+msgid ""
+"Top menu items text color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2967
+#: main/wp-customizer/panels-controls.php:3191
+#: main/wp-customizer/panels-controls.php:3414
+#: main/wp-customizer/panels-controls.php:3690
+msgid ""
+"Top items hover color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2978
+#: main/wp-customizer/panels-controls.php:3202
+#: main/wp-customizer/panels-controls.php:3425
+#: main/wp-customizer/panels-controls.php:3701
+msgid ""
+"Top menu items Border "
+"Width (in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:2994
+#: main/wp-customizer/panels-controls.php:3218
+#: main/wp-customizer/panels-controls.php:3441
+#: main/wp-customizer/panels-controls.php:3717
+msgid ""
+"Top items border color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3010
+#: main/wp-customizer/panels-controls.php:3234
+#: main/wp-customizer/panels-controls.php:3457
+#: main/wp-customizer/panels-controls.php:3733
+msgid "Sub-items Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3022
+#: main/wp-customizer/panels-controls.php:3246
+#: main/wp-customizer/panels-controls.php:3469
+#: main/wp-customizer/panels-controls.php:3745
+msgid ""
+"Sub-items Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3036
+#: main/wp-customizer/panels-controls.php:3260
+#: main/wp-customizer/panels-controls.php:3483
+#: main/wp-customizer/panels-controls.php:3759
+msgid "Sub-items Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3053
+#: main/wp-customizer/panels-controls.php:3277
+#: main/wp-customizer/panels-controls.php:3500
+#: main/wp-customizer/panels-controls.php:3776
+msgid ""
+"Sub-items text color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3065
+#: main/wp-customizer/panels-controls.php:3289
+#: main/wp-customizer/panels-controls.php:3512
+#: main/wp-customizer/panels-controls.php:3788
+msgid ""
+"Sub-items hover color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3076
+#: main/wp-customizer/panels-controls.php:3300
+#: main/wp-customizer/panels-controls.php:3523
+#: main/wp-customizer/panels-controls.php:3799
+msgid ""
+"Sub-menu items Border "
+"Width (in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3092
+#: main/wp-customizer/panels-controls.php:3316
+#: main/wp-customizer/panels-controls.php:3539
+#: main/wp-customizer/panels-controls.php:3815
+msgid ""
+"Sub-items border color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3112
+#: main/wp-customizer/panels-controls.php:3336
+#: main/wp-customizer/panels-controls.php:3557
+msgid ""
+"Open sub-menus by default"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3584
+msgid ""
+"Social Icons (optional)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3595
+msgid ""
+"Social Icons Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3611
+msgid ""
+"Social Icons text color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3623
+msgid ""
+"Social Icons hover color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3832
+msgid ""
+"Address Text (optional)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3845
+msgid "Address Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3857
+msgid "Address Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3871
+msgid "Address Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3888
+msgid "Address text color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3900
+msgid ""
+"Address links hover color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3914
+#: main/wp-customizer/panels-controls.php:3956
+msgid "Coming Soon Page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"Add a Coming Soon Page "
+"to your site. After "
+"activation, all public "
+"visitors (not logged in) "
+"will see this page. Only "
+"WordPress users (logged "
+"in) with \"administrator"
+"\" permissions, will see "
+"all pages like normal "
+"(no coming soon page "
+"will be shown)."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"About Search Engine "
+"Visibility:"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"This coming soon page "
+"will NOT stop search "
+"engines from indexing "
+"your site. Please"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"control Search Engine "
+"Visibility here"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid "or use a"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid "robots.txt file"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"No saved templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"After saving they will "
+"appear in the drop-down "
+"below. You can also "
+"modify saved templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"Learn how to add a "
+"custom Coming Soon Page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+msgid ""
+"Saved Coming Soon Pages"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3957
+#: main/wp-customizer/panels-controls.php:4020
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"Choose a saved template."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:3967
+#: main/wp-customizer/panels-controls.php:4019
+msgid "Sticky Bar"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4020
+msgid ""
+"Add a Sticky Bar to your "
+"site. After activation, "
+"all visitors will see "
+"this on top/bottom of "
+"all pages."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4020
+msgid ""
+"No saved sticky bar "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4020
+msgid ""
+"After saving they will "
+"appear in the drop-down "
+"below. You can also "
+"modify saved sticky bar "
+"templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4020
+msgid ""
+"Learn how to add a "
+"custom Sticky Bars"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4020
+msgid "Saved Sticky Bars"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4043
+msgid "Sticky Bar Location"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4044
+msgid ""
+"Stick the bar on page "
+"scroll to..."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4060
+msgid ""
+"Show the Bar only when a "
+"visitor tries to leave "
+"the site"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4077
+msgid ""
+"Show the Bar only when a "
+"visitor scrolls to"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4091
+#: main/wp-customizer/panels-controls.php:4340
+#, php-format
+msgid "% depth of a page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4114
+msgid ""
+"Time delay before sticky "
+"bar appears"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4115
+#: main/wp-customizer/panels-controls.php:4286
+msgid ""
+"In seconds. You can use "
+"values like 2, 1.5, 0.7"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4136
+msgid ""
+"Set number of days until "
+"the bar shows again"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4137
+msgid ""
+"Cookie expiry in days. "
+"Show the bar again X "
+"days after visitor "
+"closed the sticky bar. "
+"Take care not to annoy "
+"website visitors by "
+"showing the bar too "
+"often or too soon after "
+"it was dismissed by the "
+"visitor."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4159
+msgid ""
+"Show the Close Button"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4184
+msgid "Pop-up Customizer"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4238
+msgid "Pop-Up"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"Add a Pop-Up to your "
+"site."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"You can always trigger a "
+"pop-up by adding a class "
+"to a button or an image."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid "Read more here"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"No saved Pop-Up "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"After saving they will "
+"appear in the drop-down "
+"below. You can also "
+"modify saved Pop-Up "
+"templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid ""
+"Learn how to add a "
+"custom Pop-Up"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4239
+msgid "Saved Pop-Ups"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4255
+msgid ""
+"Unload pop-up css and "
+"script files for on-"
+"click pop-up triggers "
+"(default: checked)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4271
+msgid ""
+"Show the Pop-Up on a "
+"page load for all site "
+"pages"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4285
+msgid ""
+"Time delay before pop up "
+"appears"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4309
+msgid ""
+"Show pop-up when a "
+"visitor wants to leave "
+"the site - exit intent"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4326
+msgid ""
+"Show the Pop-Up when a "
+"visitor scrolls to"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4361
+msgid ""
+"Set number of days until "
+"the pop-up shows again"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4362
+msgid ""
+"Set cookie expiry in "
+"days. Show the pop-up "
+"again, \"X\" many days "
+"after visitor closed the "
+"pop-up. Take care not to "
+"annoy website visitors "
+"by showing the pop-up "
+"too often or too soon "
+"after it was dismissed."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4379
+msgid ""
+"Reset current pop-up to "
+"test again"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4380
+msgid ""
+"Get Pop-Up back again "
+"after clicking \"X\" to "
+"dismiss. Please save/"
+"publish your changes "
+"BEFORE clearing the "
+"cookie. The customizer "
+"will be reloaded after "
+"you click the button "
+"below. Important - "
+"Changes will be lost if "
+"you do not save/publish "
+"first."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4383
+msgid ""
+"Clear Local Pop-Up "
+"Cookie Now"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4393
+msgid "Global Footer"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4444
+msgid "Footer"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4445
+msgid ""
+"This will rewrite your "
+"current Footer. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4445
+msgid ""
+"Learn how to add a "
+"custom Footer"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4445
+msgid ""
+"Saved Global Footers"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4456
+msgid ""
+"Add more icons to Divi"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4458
+msgid ""
+"Choose icon packs to use "
+"with Divi"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4458
+msgid ""
+"Add thousands more free "
+"icons to Divi builder. "
+"Search by keyword and/or "
+"icon set."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4470
+msgid ""
+"Use Font Awesome 5 Free "
+"Icons"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4471
+msgid ""
+"This will add Font "
+"Awesome 5 Free icons to "
+"the Divi Builder."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4471
+#: main/wp-customizer/panels-controls.php:4486
+msgid ""
+"See more about the font "
+"here"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4485
+msgid ""
+"Use Material Design Icons"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4486
+msgid ""
+"This will add Material "
+"Design icons to the Divi "
+"Builder."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4496
+msgid ""
+"Customize Back to Top "
+"Button"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4498
+msgid ""
+"Customize the back to "
+"top button on your site."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4498
+msgid ""
+"Required actions: To "
+"edit the Back to Top "
+"Button, first enable it "
+"in"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4498
+msgid "Divi theme options"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4511
+msgid ""
+"Customize the back to "
+"top button"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4526
+msgid ""
+"Button Horizontal "
+"Position on page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4531
+#: main/wp-customizer/panels-controls.php:4894
+msgid "Right"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4532
+#: main/wp-customizer/panels-controls.php:4895
+msgid "Left"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4549
+msgid ""
+"Horizontal offset (in "
+"pixels)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4571
+msgid ""
+"Button Vertical Position "
+"on page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4576
+#: main/wp-customizer/panels-controls.php:4893
+msgid "Top"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4577
+#: main/wp-customizer/panels-controls.php:4892
+msgid "Bottom"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4593
+msgid ""
+"Vertical offset (in "
+"pixels)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4610
+msgid ""
+"Button Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4623
+msgid ""
+"Button Background Color "
+"on hover"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4636
+msgid ""
+"Button Size (padding in "
+"px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4657
+msgid ""
+"Button Border Width (in "
+"px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4675
+msgid "Button Border Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4689
+msgid ""
+"Button Border Color on "
+"hover"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4703
+msgid ""
+"Top Left border radius "
+"(in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4719
+msgid ""
+"Bottom Left border "
+"radius (in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4736
+msgid ""
+"Top Right border radius "
+"(in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4753
+msgid ""
+"Bottom Right border "
+"radius (in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4778
+msgid "Hide the icon"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4790
+msgid "Select Icon"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4805
+msgid "Icon Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4820
+msgid "Icon Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4838
+msgid "Icon Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4851
+msgid "Icon Hover Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4871
+msgid "Button Text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4872
+msgid ""
+"Leave this field blank "
+"to show no text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4887
+msgid ""
+"Text position (relative "
+"to the icon)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4914
+msgid "Text Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4930
+msgid "Text Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4945
+msgid "Text Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4976
+msgid "Text Hover Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4985
+msgid "Fade Right"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4986
+msgid "Fade Left"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4987
+msgid "Fade Top"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4988
+msgid "Fade Bottom"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4989
+msgid "Grow (in)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4990
+msgid "Bounce (in)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:4991
+msgid "Flip (in)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5002
+msgid ""
+"Button animation (in-out)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5021
+msgid ""
+"Hide the button for "
+"Laptops and Large "
+"Tablets (between 980px "
+"and 1100px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5036
+msgid ""
+"Hide the button for "
+"Tablets (between 768px "
+"and 980px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5051
+msgid ""
+"Hide the button for "
+"Smartphones and small "
+"Tablets (between 480px "
+"and 768px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5065
+msgid ""
+"Hide the button for "
+"Smartphones (between "
+"320px and 480px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5079
+msgid ""
+"Login / Register / Lost "
+"Password"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5089
+msgid "Load Login Page"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5102
+msgid ""
+"Commanding Dark Login - "
+"Diana"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5103
+msgid ""
+"Ruling Login - Diana"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5104
+msgid ""
+"Queenly Login - Diana"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5115
+#: main/wp-customizer/panels-controls.php:5767
+msgid "Login"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5116
+msgid ""
+"This will rewrite your "
+"current Wordpress "
+"Login / Register / Lost "
+"Password Pages."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5116
+msgid "Global Login Pages"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5116
+msgid ""
+"Choose a template to "
+"edit."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5127
+msgid "Global Header"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5178
+msgid "Header"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5179
+msgid ""
+"This will add a header "
+"for all pages. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5179
+msgid ""
+"Learn how to add a "
+"custom Header"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5179
+msgid ""
+"Saved Global Headers"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5196
+#: main/wp-customizer/panels-controls.php:5436
+#: main/wp-customizer/panels-controls.php:5723
+msgid "Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5209
+msgid ""
+"Login Box Shadow Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5225
+#: main/wp-customizer/panels-controls.php:5466
+#: main/wp-customizer/panels-controls.php:6037
+msgid "Upload a logo"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5242
+#: main/wp-customizer/panels-controls.php:5483
+#: main/wp-customizer/panels-controls.php:5740
+msgid "Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5258
+#: main/wp-customizer/panels-controls.php:5499
+#: main/wp-customizer/panels-controls.php:5756
+msgid "Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5273
+#: main/wp-customizer/panels-controls.php:5514
+#: main/wp-customizer/panels-controls.php:5818
+msgid ""
+"Input Fields Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5291
+#: main/wp-customizer/panels-controls.php:5532
+#: main/wp-customizer/panels-controls.php:5836
+msgid ""
+"Input Fields Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5304
+#: main/wp-customizer/panels-controls.php:5592
+#: main/wp-customizer/panels-controls.php:5896
+msgid ""
+"Remember Me Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5321
+#: main/wp-customizer/panels-controls.php:5609
+#: main/wp-customizer/panels-controls.php:5913
+msgid ""
+"Remember Me Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5334
+#: main/wp-customizer/panels-controls.php:5622
+#: main/wp-customizer/panels-controls.php:5926
+msgid ""
+"Button Text Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5351
+#: main/wp-customizer/panels-controls.php:5639
+#: main/wp-customizer/panels-controls.php:5943
+msgid ""
+"Buttons Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5363
+#: main/wp-customizer/panels-controls.php:5651
+#: main/wp-customizer/panels-controls.php:5955
+msgid "Buttons Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5377
+#: main/wp-customizer/panels-controls.php:5665
+#: main/wp-customizer/panels-controls.php:5968
+msgid ""
+"Buttons Hover Background "
+"Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5389
+#: main/wp-customizer/panels-controls.php:5677
+#: main/wp-customizer/panels-controls.php:5980
+msgid ""
+"Buttons Hover Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5402
+#: main/wp-customizer/panels-controls.php:5690
+#: main/wp-customizer/panels-controls.php:5993
+msgid ""
+"Lost Your Password... "
+"Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5420
+#: main/wp-customizer/panels-controls.php:5708
+#: main/wp-customizer/panels-controls.php:6011
+msgid ""
+"Lost Your Password... "
+"Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5451
+msgid ""
+"Upload a Background Image"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5544
+#: main/wp-customizer/panels-controls.php:5848
+msgid ""
+"Input Fields Border Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5557
+#: main/wp-customizer/panels-controls.php:5861
+msgid ""
+"Input Fields Border "
+"Thickness"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5574
+#: main/wp-customizer/panels-controls.php:5878
+msgid ""
+"Input Fields Border "
+"Radius (in px)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5774
+msgid "Header Text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5786
+msgid "Header Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:5804
+msgid "Header Text Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6023
+msgid ""
+"Info Box Background Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6052
+msgid "Address Text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6065
+msgid "Contact Text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6077
+msgid "Social Links"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6091
+#: main/wp-customizer/panels-controls.php:6137
+msgid ""
+"Single Blog Post Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6103
+msgid ""
+"Load Single Post Template"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6138
+msgid ""
+"This will rewrite your "
+"current Single Blog Post "
+"template. No saved "
+"templates yet?"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6138
+msgid ""
+"Saved Single Blog Post "
+"Templates"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6244
+msgid "Meta Font Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6255
+msgid "Meta Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6312
+msgid "H1-H6 Font Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6325
+#: main/wp-customizer/panels-controls.php:6664
+msgid "H1-H6 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6336
+#: main/wp-customizer/panels-controls.php:6675
+msgid "H1-H6 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6362
+msgid ""
+"Show Author Bio after "
+"content"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6453
+msgid "Show Related Posts"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6461
+msgid "You may also like"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6468
+msgid ""
+"Related Posts Header Text"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6481
+msgid ""
+"Related Posts Header "
+"Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6494
+msgid ""
+"Related Posts Header Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6513
+msgid ""
+"Related Posts Single "
+"Post Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6525
+msgid ""
+"Related Posts Single "
+"Post Header Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6541
+msgid ""
+"Related Posts Single "
+"Post Date Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6560
+msgid ""
+"Comment Form Header Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6573
+msgid ""
+"Comment Form Header Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6592
+msgid ""
+"Comment Form Fields Text "
+"Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6604
+msgid ""
+"Comment Form Fields Font "
+"Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6619
+msgid ""
+"Global Headings (H1 - H6)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6624
+msgid ""
+"Disabled (use default)"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6625
+msgid ""
+"Global - change H1 - H6 "
+"styles together"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6626
+msgid ""
+"Separately - change "
+"styles for each tag"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6643
+msgid ""
+"Choose heading to "
+"customize"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6644
+msgid ""
+"Change headings styles. "
+"Important: these "
+"settings will re-write "
+"ALL H1 - H6 styles - "
+"incl. all Divi modules, "
+"any-file-name.css or "
+"custom css entries."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6685
+msgid "H1 - H6 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6696
+msgid "H1 - H6 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6697
+msgid ""
+"Set max (H1) size. H2 - "
+"H6 sizes changes "
+"proportionally."
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6713
+msgid "H1 - H6 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6714
+#: main/wp-customizer/panels-controls.php:6806
+#: main/wp-customizer/panels-controls.php:6898
+#: main/wp-customizer/panels-controls.php:6990
+#: main/wp-customizer/panels-controls.php:7082
+#: main/wp-customizer/panels-controls.php:7174
+#: main/wp-customizer/panels-controls.php:7266
+msgid "In %"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6730
+msgid ""
+"H1 - H6 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6731
+#: main/wp-customizer/panels-controls.php:6823
+#: main/wp-customizer/panels-controls.php:6915
+#: main/wp-customizer/panels-controls.php:7007
+#: main/wp-customizer/panels-controls.php:7099
+#: main/wp-customizer/panels-controls.php:7191
+#: main/wp-customizer/panels-controls.php:7283
+msgid "In px"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6757
+msgid "H1 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6768
+msgid "H1 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6778
+msgid "H1 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6789
+msgid "H1 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6805
+msgid "H1 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6822
+msgid "H1 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6849
+msgid "H2 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6860
+msgid "H2 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6870
+msgid "H2 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6881
+msgid "H2 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6897
+msgid "H2 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6914
+msgid "H2 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6941
+msgid "H3 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6952
+msgid "H3 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6962
+msgid "H3 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6973
+msgid "H3 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:6989
+msgid "H3 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7006
+msgid "H3 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7033
+msgid "H4 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7044
+msgid "H4 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7054
+msgid "H4 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7065
+msgid "H4 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7081
+msgid "H4 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7098
+msgid "H4 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7125
+msgid "H5 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7136
+msgid "H5 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7146
+msgid "H5 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7157
+msgid "H5 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7173
+msgid "H5 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7190
+msgid "H5 Letter Spacing"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7217
+msgid "H6 Font"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7228
+msgid "H6 Font style"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7238
+msgid "H6 Color"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7249
+msgid "H6 Font Size"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7265
+msgid "H6 Line Height"
+msgstr ""
+
+#: main/wp-customizer/panels-controls.php:7282
+msgid "H6 Letter Spacing"
+msgstr ""

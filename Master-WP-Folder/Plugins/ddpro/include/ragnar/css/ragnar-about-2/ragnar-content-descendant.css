@@ -1,0 +1,13 @@
+.ragnar_content_descendant .et_pb_text p:last-child{
+    padding-bottom: 0;
+}
+
+.ragnar_content_descendant .et_pb_text p{
+    padding-bottom: 32px;
+}
+
+.ragnar_content_descendant .et_pb_image.slide_image .et_pb_image_wrap ,
+.ragnar_content_descendant .et_pb_image.slide_image .et_pb_image_wrap img{
+    display: block !important;
+    width: 100% !important;
+}
